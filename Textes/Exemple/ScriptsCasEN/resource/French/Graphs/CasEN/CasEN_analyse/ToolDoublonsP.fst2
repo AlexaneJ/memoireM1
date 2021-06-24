@@ -1,0 +1,27 @@
+0000000001
+-1 ToolDoublonsP
+: 7 3 6 3 3 2 2 1 1 1 
+: 9 4 8 4 
+: 4 5 
+: 12 6 11 4 10 4 
+t 
+: 5 1 
+: 13 7 
+: 4 8 
+: 5 4 
+f 
+%<E>
+%<Xml+Begin+name=p>/<p>
+%<Xml+Begin+name=P>/<p>
+%</<p>
+%p
+%>
+%<Xml+End+name=p>/</p>
+%<Xml+End+name=P>/</p>
+%<Xml+Begin+name=p>
+%<Xml+Begin+name=P>
+%<Xml+End+name=p>
+%<Xml+End+name=P>
+%<
+%/
+f

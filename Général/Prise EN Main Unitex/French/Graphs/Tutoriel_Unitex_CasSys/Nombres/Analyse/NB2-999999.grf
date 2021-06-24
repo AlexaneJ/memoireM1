@@ -1,0 +1,36 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+16
+"<E>" 27 365 5 2 5 9 12 13 
+"" 680 365 0 
+":NB2-999" 348 445 1 1 
+":NB2-999-SSG" 198 93 1 4 
+"mille" 351 93 2 6 7 
+"mille/<nombre>" 233 365 2 6 7 
+"<E>/</nombre>" 610 365 1 1 
+":NB2-999-SSG+un+une" 434 328 1 6 
+"Tutoriel Unitex+Denis Maurel+Université de Tours" 485 63 0 
+"<E>" 71 93 2 10 11 
+"<E>/<nombre>" 154 93 1 3 
+"\" \"" 108 49 1 10 
+"onze+douze+treize+quatorze+quinze+seize/<nombre>" 123 190 1 4 
+"dix/<nombre>" 111 297 1 15 
+"sept+huit+neuf" 249 297 1 4 
+"-" 187 297 1 14 

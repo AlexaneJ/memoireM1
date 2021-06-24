@@ -1,0 +1,26 @@
+CURRENT_WORK_DIR = {CORPUS_WORK_DIR}/{UNIQUE_VALUE}
+
+DuplicateFile -p {CURRENT_WORK_DIR}
+DuplicateFile --make-dir {CURRENT_WORK_DIR}/corpus_snt
+DuplicateFile --make-dir {CURRENT_WORK_DIR}/corpus_csc
+DuplicateFile -i {INPUT_FILE_1} {CURRENT_WORK_DIR}/corpus.txt
+
+Normalize {CURRENT_WORK_DIR}/corpus.txt -l -r{PACKAGE_DIR}/resource/French/Norm.txt -l --output_offsets={CURRENT_WORK_DIR}/corpus_snt/offsetsCorpus.txt -l -qutf8-no-bom
+Tokenize {CURRENT_WORK_DIR}/corpus.snt -a{PACKAGE_DIR}/resource/French/Alphabet.txt -qutf8-no-bom
+Dico -t{CURRENT_WORK_DIR}/corpus.snt -a{PACKAGE_DIR}/resource/French/Alphabet.txt {PACKAGE_DIR}/resource/French/Dela/CasEN_Ambiguites-.bin {PACKAGE_DIR}/resource/French/Dela/CasEN_Dico.bin {PACKAGE_DIR}/resource/French/Dela/Dela_fr.bin {PACKAGE_DIR}/resource/French/Dela/Prolex-Unitex-BestOf_2_2_fra.bin
+SortTxt {CURRENT_WORK_DIR}/corpus_snt/dlf -l{CURRENT_WORK_DIR}/corpus_snt/dlf.n -o{PACKAGE_DIR}/resource/French/Alphabet_sort.txt
+SortTxt {CURRENT_WORK_DIR}/corpus_snt/dlc -l{CURRENT_WORK_DIR}/corpus_snt/dlc.n -o{PACKAGE_DIR}/resource/French/Alphabet_sort.txt
+SortTxt {CURRENT_WORK_DIR}/corpus_snt/err -l{CURRENT_WORK_DIR}/corpus_snt/err.n -o{PACKAGE_DIR}/resource/French/Alphabet_sort.txt
+SortTxt {CURRENT_WORK_DIR}/corpus_snt/tags_err -l{CURRENT_WORK_DIR}/corpus_snt/tags_err.n -o{PACKAGE_DIR}/resource/French/Alphabet_sort.txt
+Cassys -a{PACKAGE_DIR}/resource/French/Alphabet.txt -t{CURRENT_WORK_DIR}/corpus.snt -l{PACKAGE_DIR}/resource/French/CasSys/CasEN/CasEN_analyse.csc -v -r{PACKAGE_DIR}/resource/French/Graphs/ --in_place --cleanup_working_files --input_offsets={CURRENT_WORK_DIR}/corpus_snt/offsetsCorpus.txt -C--no_convert_lf_to_crlf -qutf8-no-bom
+
+DuplicateFile -i {CURRENT_WORK_DIR}/corpus_csc.txt {CURRENT_WORK_DIR}/corpus_csc.snt
+Tokenize {CURRENT_WORK_DIR}/corpus_csc.snt -a{PACKAGE_DIR}/resource/French/Alphabet.txt -qutf8-no-bom
+Cassys -a{PACKAGE_DIR}/resource/French/Alphabet.txt -t{CURRENT_WORK_DIR}/corpus_csc.snt -l{PACKAGE_DIR}/resource/French/CasSys/CasEN/CasEN_synthese_TEI.csc -v -r{PACKAGE_DIR}/resource/French/Graphs/ -C--no_convert_lf_to_crlf --in_place --cleanup_working_files -qutf8-no-bom --input_offsets={CURRENT_WORK_DIR}/corpus_csc_txt_offsets.txt
+
+DumpOffsets -d -r{PACKAGE_DIR}/resource/French/Norm.txt -o {CURRENT_WORK_DIR}/corpus.txt -n {CURRENT_WORK_DIR}/corpus_csc_csc.txt {CURRENT_WORK_DIR}/corpus_csc_csc_txt_offsets.txt -p {CURRENT_WORK_DIR}/corpus_denorm.txt -qutf8-no-bom
+
+DuplicateFile -i {CURRENT_WORK_DIR}/corpus_csc_csc.txt {OUTPUT_FILE_1}
+DuplicateFile --recursive-delete {CURRENT_WORK_DIR}
+
+

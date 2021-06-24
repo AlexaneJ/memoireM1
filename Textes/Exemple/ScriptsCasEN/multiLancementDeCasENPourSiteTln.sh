@@ -1,0 +1,1 @@
+/Applications/Unitex-GramLab-3.2/App/UnitexToolLogger { BatchRunScript -e -i /Users/Me/Desktop/ScriptsCasEN/DossierOrigine -o /Users/Me/Desktop/ScriptsCasEN/DossierResultats -t1 /Users/Me/Desktop/ScriptsCasEN/CasEN_lingpkg.zip -s script/CasEN.uniscript --quiet }

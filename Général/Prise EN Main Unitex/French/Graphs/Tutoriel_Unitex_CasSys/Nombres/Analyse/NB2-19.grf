@@ -1,0 +1,28 @@
+#Unigraph
+SIZE 1392 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+8
+"<E>" 191 352 2 2 4 
+"" 757 352 0 
+"deux+trois+quatre+cinq+six+sept+huit+neuf+onze+douze+treize+quatorze+quinze+seize/<nombre>" 421 189 1 3 
+"<E>/</nombre>" 656 352 1 1 
+"dix/<nombre>" 278 352 2 3 6 
+"sept+huit+neuf" 498 399 1 3 
+"-" 436 399 1 5 
+"Tutoriel Unitex+Denis Maurel+Université de Tours" 130 112 0 

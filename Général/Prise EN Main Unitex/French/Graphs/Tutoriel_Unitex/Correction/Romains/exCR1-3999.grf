@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1887 866
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 157 335 3 2 8 10 
+"" 914 335 0 
+"$<" 211 335 1 3 
+"M/<ChiffreRomain>" 324 335 2 4 14 
+"M" 441 255 2 5 16 
+"M" 522 222 1 16 
+"<E>/</ChiffreRomain>" 858 335 1 1 
+"$>" 798 335 1 6 
+":CR1-999" 271 480 1 9 
+"<E>" 794 480 1 1 
+"M/<ChiffreRomain>" 310 410 1 12 
+"'+." 684 410 1 13 
+"$![" 644 410 1 11 
+"$]" 731 410 1 6 
+":CR1-999-SSG" 678 335 1 7 
+"Tutoriel Unitex+Denis Maurel+Université de Tours" 125 198 0 
+"<E>" 598 255 2 14 7 

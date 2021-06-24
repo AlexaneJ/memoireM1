@@ -1,0 +1,9 @@
+<tei>
+<title>La Gazette de l'hôpital Bretonneau</title>
+<date>Publié le mercredi 19 novembre 2014</date>
+<body>
+<p>Le maire de la ville de Prèdetours a organisé une grande cérémonie le mardi 11 novembre 2014 pour modifier le nom de la rue de Prèdetours en rue du 11 novembre 1918.</p>
+<p>Ce mardi 11 novembre prouve que Prèdetours n'a pas oublié ses anciens combattants.</p>
+<p>D'ailleurs il n'est pas impossible qu'une Maison communale du 11 novembre voit le jour pour célébrer le 11 novembre 2018...</p>
+</body>
+</tei>

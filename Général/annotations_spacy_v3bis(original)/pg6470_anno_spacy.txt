@@ -1,0 +1,21 @@
+Alexandre 	 PER
+Lisa 	 PER
+Saget 	 PER
+Florent 	 PER
+Lisa 	 PER
+rue Montorgueil 	 LOC
+Méhudin 	 PER
+Méhudin 	 PER
+Lisa 	 MISC
+Florent 	 PER
+Charvet 	 PER
+Clémence 	 PER
+madame Lecoeur 	 PER
+Quenu 	 PER
+Florent 	 PER
+Lebigre 	 PER
+V    	 PER
+Lisa 	 MISC
+Saint-Eustache 	 LOC
+Pauline 	 PER
+Florent 	 PER

@@ -1,0 +1,78 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+58
+"<E>" 68 174 2 20 3 
+"" 1404 481 0 
+"\<\/_val\>" 530 174 2 26 41 
+"\<_unit\>" 233 652 1 8 
+"<WORD>" 925 652 1 14 
+"<E>/$measure$<_unit>$unit$</_unit> <_val>" 1209 652 1 1 
+"$val(" 186 174 1 15 
+"$]" 466 652 1 29 
+"$unit(" 300 652 1 23 
+"\<\/_val\>" 262 174 1 16 
+"\<_val\>" 1126 652 1 5 
+"/<_unit>magnitude</_unit> <_measure type=\"magnitude\"><_val>3</_val></_measure>" 214 579 0 
+"\<\/_unit\>" 644 652 1 31 
+"$measure)" 1087 652 1 10 
+"\\\"\>" 1033 652 1 13 
+"$![" 222 174 1 9 
+"$]" 352 174 1 28 
+"$val)" 501 174 1 2 
+"\<_measure type=\\\"" 770 652 1 4 
+"/<val>6</val><measure type=\"currency\"><unit>€</unit><val>1/2</val></measure>" 117 44 0 
+"\<_val\>" 119 174 1 6 
+"\" \"/e" 683 214 1 42 
+"$unit)" 615 652 1 12 
+"$![" 336 652 1 30 
+"<E>/$measure$<_val>$val$</_val> <_unit>" 777 420 1 1 
+"/<val>6</val><measure type=\"duration\"><unit>s</unit> <val>1/2</val></measure>" 126 80 0 
+"#" 854 89 1 37 
+"<E>/$measure$<_val>$val$</_val><_unit>" 772 374 1 1 
+"<TOKEN>" 401 174 2 15 17 
+"<TOKEN>" 515 652 2 23 22 
+"\<\/_unit\>" 376 652 1 7 
+"$measure(" 730 652 1 18 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+tln.lifat.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 775 786 0 
+"de/d" 835 165 1 45 
+"/une distance de <val>5 millions</val> de <measure type=\"length\"><unit>mètres</unit></measure>" 81 104 0 
+"\\\"\>" 1305 214 1 38 
+"\<_measure type=\\\"" 1042 214 1 40 
+"$measure(" 1002 214 1 36 
+"$measure)" 1359 214 1 39 
+"\<_unit\>" 1393 214 1 46 
+"<WORD>" 1197 214 1 35 
+"$|e(" 643 214 1 21 
+"$|e)" 743 214 3 44 49 37 
+"d'/d" 842 250 1 50 
+"$|de(" 795 165 1 33 
+"$|de)" 893 165 1 37 
+"<E>" 1068 276 1 47 
+"<E>" 190 374 2 48 51 
+"<E>/$e.UNSET$" 292 374 1 27 
+"$|d(" 802 250 1 43 
+"$|d)" 896 250 1 37 
+"<E>/$e.SET$" 331 532 2 52 56 
+"<E>/$de.UNSET$" 424 481 2 53 54 
+"<E>/$d.UNSET$" 603 420 1 24 
+"<E>/$d.SET$" 598 481 1 55 
+"<E>/$measure$<_val>$val$</_val> d'<_unit>" 781 481 1 1 
+"<E>/$de.SET$" 462 532 1 57 
+"<E>/$measure$<_val>$val$</_val> de <_unit>" 785 532 1 1 

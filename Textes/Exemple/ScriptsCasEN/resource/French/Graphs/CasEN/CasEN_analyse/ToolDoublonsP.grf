@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11228930
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 200 2 2 3 
+"" 490 201 0 
+"<Xml+Begin+name=p>+<Xml+Begin+name=P>+\<p\>/<p>" 173 135 1 4 
+"<Xml+End+name=p>+<Xml+End+name=P>/</p>" 164 250 1 5 
+"<Xml+Begin+name=p>+<Xml+Begin+name=P>" 324 135 1 1 
+"<Xml+End+name=p>+<Xml+End+name=P>+\<\/p\>" 321 250 1 1 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+tln.lifat.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 555 101 0 

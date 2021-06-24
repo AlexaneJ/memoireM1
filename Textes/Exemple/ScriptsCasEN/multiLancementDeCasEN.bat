@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Unitex-GramLab\App\UnitexToolLogger.exe" { BatchRunScript -i C:\Documents\ScriptsCasEN\DossierOrigine -o C:\Documents\ScriptsCasEN\DossierResultats -t1 C:\Documents\ScriptsCasEN\CasEN_lingpkg.zip -f -s script\CasEN.uniscript }

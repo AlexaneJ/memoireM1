@@ -1,0 +1,89 @@
+Rome 	 LOC
+Actium 	 MISC
+Inde 	 LOC
+Ballard 	 PER
+Joy Division 	 PER
+The Normal 	 PER
+John Foxx 	 PER
+Jiang Qing 	 PER
+Mao Zedong 	 PER
+Arrhenius 	 PER
+Michael Faraday 	 PER
+Fringe 	 MISC
+Boston 	 LOC
+Lance et compte 	 MISC
+Elizabeth II 	 PER
+Angleterre 	 LOC
+Bob Rock 	 PER
+Metallica 	 ORG
+Louis XV 	 PER
+Pierre-Antoine Demachy 	 PER
+États-Unis 	 LOC
+États-Unis 	 LOC
+DMCA 	 MISC
+Galilée 	 PER
+Locke 	 PER
+OMG 	 ORG
+Object Management Group 	 ORG
+New York Times 	 ORG
+Beloved 	 MISC
+Musée du Louvre 	 LOC
+Morrison 	 LOC
+Olav Tryggvason 	 PER
+Oslo 	 LOC
+Lorient 	 LOC
+Bretagne 	 LOC
+département du Morbihan 	 LOC
+delta de la rivière des Perles 	 LOC
+Guangdong 	 LOC
+Hong Kong 	 LOC
+Canton 	 LOC
+Shenzhen 	 LOC
+Bali 	 LOC
+USC Trojans 	 PER
+UCLA Bruins 	 ORG
+Armstrong 	 PER
+Bob Hope 	 PER
+United Service Organizations 	 ORG
+Ma mère 	 PER
+Juif 	 MISC
+Granville 	 LOC
+Chausey 	 LOC
+Paris 	 LOC
+Notre-Dame 	 LOC
+point zéro des routes de France 	 LOC
+Saint-Lô 	 LOC
+Avranches 	 LOC
+Coutances 	 LOC
+Cherbourg 	 LOC
+Octeville 	 LOC
+Mont-Saint-Michel 	 LOC
+Cancale 	 LOC
+Caen 	 LOC
+Morges 	 LOC
+Jack London 	 PER
+TGV 	 MISC
+Massy TGV 	 LOC
+Massy 	 LOC
+Palaiseau 	 LOC
+Juvisy 	 LOC
+plaine du Nord 	 LOC
+Pékin 	 LOC
+delta du Nord 	 LOC
+la Chine 	 LOC
+Royaume 	 LOC
+Égypte 	 LOC
+Oxford 	 LOC
+Cambridge 	 LOC
+Maxwell 	 PER
+Pacte andin 	 ORG
+Carthagène 	 LOC
+Thionville FC 	 ORG
+Division 2 	 MISC
+C 	 MISC
+Passaic 	 LOC
+Michel Gondry 	 PER
+Soyez sympas 	 MISC
+Groenland 	 LOC
+Otton I er 	 PER
+Bourgogne 	 LOC

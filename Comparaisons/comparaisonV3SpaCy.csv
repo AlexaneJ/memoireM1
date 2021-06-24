@@ -1,0 +1,57 @@
+,SpaCy,,,
+Exactitude,Totale,,Partielle,
+Corpus,entier,texte par texte,entier,texte par texte
+,"Précision : 0,70
+Rappel : 0,63
+F1-mesure : 0,66","APIL :
+Précision : 0.45
+Rappel : 0.46
+F1-mesure : 0.46","Précision : 0,81
+Rappel : 0,73
+F1-mesure : 0,76","APIL :
+Précision : 0.61
+Rappel : 0.61
+F1-mesure : 0.61"
+,,"Wikinews :
+Précision : 0.76
+Rappel : 0.63
+F1-mesure : 0.69",,"Wikinews :
+Précision : 0.84
+Rappel : 0.69
+F1-mesure : 0.76"
+,,"Sequoia :
+Précision : 0.73
+Rappel : 0.62
+F1-mesure : 0.67",,"Sequoia :
+Précision : 0.82
+Rappel : 0.7
+F1-mesure : 0.76"
+,,"Aijwikiner : 
+Précision : 0.80
+Rappel : 0.76
+F1-mesure : 0.78",,"Aijwikiner :
+Précision : 0.91
+Rappel : 0.86
+F1-mesure : 0.88"
+,,"GSD : 
+Précision : 0.73
+Rappel : 0.69
+F1-mesure : 0.71",,"GSD : 
+Précision : 0.84
+Rappel : 0.79
+F1-mesure : 0.81"
+,,"Spoken :
+Précision : 0.78
+Rappel : 0.55
+F1-mesure : 0.64",,"Spoken : 
+Précision : 0.87
+Rappel : 0.61
+F1-mesure : 0.71
+"
+,,"Pg6470 :
+Précision : 0.86
+Rappel : 0.75
+F1-mesure : 0.80",,"Pg6470 : 
+Précision : 0.93
+Rappel : 0.81
+F1-mesure : 0.87"

@@ -1,0 +1,22 @@
+Alexandre 	 PER
+Lisa 	 MISC
+Saget 	 PER
+Tenez 	 LOC
+Florent 	 ORG
+Lisa 	 MISC
+Là 	 LOC
+rue Montorgueil 	 LOC
+Many 	 LOC
+Méhudin 	 PER
+Méhudin 	 PER
+Lisa 	 MISC
+Charvet 	 MISC
+Clémence 	 PER
+madame Lecoeur 	 PER
+Florent 	 LOC
+Lebigre 	 LOC
+V    	 PER
+Lisa 	 MISC
+Saint-Eustache 	 LOC
+Pauline 	 LOC
+Florent 	 LOC

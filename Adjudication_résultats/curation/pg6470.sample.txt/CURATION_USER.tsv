@@ -1,0 +1,1075 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=webanno.custom.Quaero_NamedEntities|value
+
+
+#Text=Les mauvaises pensées me dérangent trop.
+1-1	0-3	Les	_	
+1-2	4-13	mauvaises	_	
+1-3	14-21	pensées	_	
+1-4	22-24	me	_	
+1-5	25-34	dérangent	_	
+1-6	35-39	trop	_	
+1-7	39-40	.	_	
+
+#Text=-- Toi, mon petit, je t'en.... et, tiens!
+2-1	41-42	-	_	
+2-2	42-43	-	_	
+2-3	43-44	 	_	
+2-4	44-47	Toi	_	
+2-5	47-48	,	_	
+2-6	49-52	mon	_	
+2-7	53-58	petit	_	
+2-8	58-59	,	_	
+2-9	60-62	je	_	
+2-10	63-67	t'en	_	
+2-11	67-68	.	_	
+2-12	68-69	.	_	
+2-13	69-70	.	_	
+2-14	70-71	.	_	
+2-15	72-74	et	_	
+2-16	74-75	,	_	
+2-17	76-81	tiens	_	
+2-18	81-82	!	_	
+
+#Text=Ce fut Alexandre qui paya.
+3-1	83-85	Ce	_	
+3-2	86-89	fut	_	
+3-3	90-99	Alexandre	pers.ind	
+3-4	100-103	qui	_	
+3-5	104-108	paya	_	
+3-6	108-109	.	_	
+
+#Text=grand poëte que vous êtes!
+4-1	110-115	grand	_	
+4-2	116-121	poëte	func.ind	
+4-3	122-125	que	_	
+4-4	126-130	vous	_	
+4-5	131-135	êtes	_	
+4-6	135-136	!	_	
+
+#Text=demanda la vieille, toute frétillante, enchantée d'apprendre que les deux femmes s'étaient disputées.
+5-1	137-144	demanda	_	
+5-2	145-147	la	_	
+5-3	148-155	vieille	_	
+5-4	155-156	,	_	
+5-5	157-162	toute	_	
+5-6	163-174	frétillante	_	
+5-7	174-175	,	_	
+5-8	176-185	enchantée	_	
+5-9	186-197	d'apprendre	_	
+5-10	198-201	que	_	
+5-11	202-205	les	_	
+5-12	206-210	deux	amount[1]	
+5-13	211-217	femmes	amount[1]	
+5-14	218-227	s'étaient	_	
+5-15	228-237	disputées	_	
+5-16	237-238	.	_	
+
+#Text=Elle était tout près de lui.
+6-1	239-243	Elle	_	
+6-2	244-249	était	_	
+6-3	250-254	tout	_	
+6-4	255-259	près	_	
+6-5	260-262	de	_	
+6-6	263-266	lui	_	
+6-7	266-267	.	_	
+
+#Text=Les paroles de Lisa retentissaient, comme s'il eût déjà entendu les fortes bottes des gendarmes, à la porte de la chambre.
+7-1	268-271	Les	_	
+7-2	272-279	paroles	_	
+7-3	280-282	de	_	
+7-4	283-287	Lisa	pers.ind	
+7-5	288-302	retentissaient	_	
+7-6	302-303	,	_	
+7-7	304-309	comme	_	
+7-8	310-314	s'il	_	
+7-9	315-318	eût	_	
+7-10	319-323	déjà	_	
+7-11	324-331	entendu	_	
+7-12	332-335	les	_	
+7-13	336-342	fortes	_	
+7-14	343-349	bottes	_	
+7-15	350-353	des	_	
+7-16	354-363	gendarmes	func.coll	
+7-17	363-364	,	_	
+7-18	365-366	à	_	
+7-19	367-369	la	_	
+7-20	370-375	porte	_	
+7-21	376-378	de	_	
+7-22	379-381	la	_	
+7-23	382-389	chambre	_	
+7-24	389-390	.	_	
+
+#Text=J'y arriverai, à l'histoire du monsieur... Je te raconte l'histoire tout entière.
+8-1	391-394	J'y	_	
+8-2	395-404	arriverai	_	
+8-3	404-405	,	_	
+8-4	406-407	à	_	
+8-5	408-418	l'histoire	_	
+8-6	419-421	du	_	
+8-7	422-430	monsieur	_	
+8-8	430-431	.	_	
+8-9	431-432	.	_	
+8-10	432-433	.	_	
+8-11	434-436	Je	_	
+8-12	437-439	te	_	
+8-13	440-447	raconte	_	
+8-14	448-458	l'histoire	_	
+8-15	459-463	tout	_	
+8-16	464-471	entière	_	
+8-17	471-472	.	_	
+
+#Text=Elle voulut deux tranches de galantine; elle aimait ça.
+9-1	473-477	Elle	_	
+9-2	478-484	voulut	_	
+9-3	485-489	deux	amount[2]	
+9-4	490-498	tranches	amount[2]	
+9-5	499-501	de	amount[2]	
+9-6	502-511	galantine	amount[2]	
+9-7	511-512	;	_	
+9-8	513-517	elle	_	
+9-9	518-524	aimait	_	
+9-10	525-527	ça	_	
+9-11	527-528	.	_	
+
+#Text=Mais elle dit que non, qu'il fallait savoir où ils en étaient auparavant.
+10-1	529-533	Mais	_	
+10-2	534-538	elle	_	
+10-3	539-542	dit	_	
+10-4	543-546	que	_	
+10-5	547-550	non	_	
+10-6	550-551	,	_	
+10-7	552-557	qu'il	_	
+10-8	558-565	fallait	_	
+10-9	566-572	savoir	_	
+10-10	573-575	où	_	
+10-11	576-579	ils	_	
+10-12	580-582	en	_	
+10-13	583-590	étaient	_	
+10-14	591-601	auparavant	_	
+10-15	601-602	.	_	
+
+#Text=Tous trois s'en allaient, traînant les talons sur les trottoirs, tenant la largeur, forçant les gens à descendre.
+11-1	603-607	Tous	_	
+11-2	608-613	trois	_	
+11-3	614-618	s'en	_	
+11-4	619-627	allaient	_	
+11-5	627-628	,	_	
+11-6	629-637	traînant	_	
+11-7	638-641	les	_	
+11-8	642-648	talons	_	
+11-9	649-652	sur	_	
+11-10	653-656	les	_	
+11-11	657-666	trottoirs	_	
+11-12	666-667	,	_	
+11-13	668-674	tenant	_	
+11-14	675-677	la	_	
+11-15	678-685	largeur	_	
+11-16	685-686	,	_	
+11-17	687-694	forçant	_	
+11-18	695-698	les	_	
+11-19	699-703	gens	_	
+11-20	704-705	à	_	
+11-21	706-715	descendre	_	
+11-22	715-716	.	_	
+
+#Text=Alors, mademoiselle Saget lui répondait que, dame!
+12-1	717-722	Alors	_	
+12-2	722-723	,	_	
+12-3	724-736	mademoiselle	pers.ind[3]	
+12-4	737-742	Saget	pers.ind[3]	
+12-5	743-746	lui	_	
+12-6	747-756	répondait	_	
+12-7	757-760	que	_	
+12-8	760-761	,	_	
+12-9	762-766	dame	_	
+12-10	766-767	!	_	
+
+#Text=Si, d'ailleurs, on ne l'avait pas arrête, au 2 décembre, ce n'était pas sa faute.
+13-1	768-770	Si	_	
+13-2	770-771	,	_	
+13-3	772-782	d'ailleurs	_	
+13-4	782-783	,	_	
+13-5	784-786	on	_	
+13-6	787-789	ne	_	
+13-7	790-797	l'avait	_	
+13-8	798-801	pas	_	
+13-9	802-808	arrête	_	
+13-10	808-809	,	_	
+13-11	810-812	au	_	
+13-12	813-814	2	time.date.abs[4]	
+13-13	815-823	décembre	time.date.abs[4]	
+13-14	823-824	,	_	
+13-15	825-827	ce	_	
+13-16	828-835	n'était	_	
+13-17	836-839	pas	_	
+13-18	840-842	sa	_	
+13-19	843-848	faute	_	
+13-20	848-849	.	_	
+
+#Text=Tenez, je ne vous aime plus.
+14-1	850-855	Tenez	_	
+14-2	855-856	,	_	
+14-3	857-859	je	_	
+14-4	860-862	ne	_	
+14-5	863-867	vous	_	
+14-6	868-872	aime	_	
+14-7	873-877	plus	_	
+14-8	877-878	.	_	
+
+#Text=Cette brutalité jeta Florent hors de lui.
+15-1	879-884	Cette	_	
+15-2	885-894	brutalité	_	
+15-3	895-899	jeta	_	
+15-4	900-907	Florent	pers.ind	
+15-5	908-912	hors	_	
+15-6	913-915	de	_	
+15-7	916-919	lui	_	
+15-8	919-920	.	_	
+
+#Text=-- Merci, gronda la portière, cinquante francs, pour l'avoir dorloté avec de la tisane et du bouillon!
+16-1	921-922	-	_	
+16-2	922-923	-	_	
+16-3	923-924	 	_	
+16-4	924-929	Merci	_	
+16-5	929-930	,	_	
+16-6	931-937	gronda	_	
+16-7	938-940	la	_	
+16-8	941-949	portière	func.ind	
+16-9	949-950	,	_	
+16-10	951-960	cinquante	amount[5]	
+16-11	961-967	francs	amount[5]	
+16-12	967-968	,	_	
+16-13	969-973	pour	_	
+16-14	974-981	l'avoir	_	
+16-15	982-989	dorloté	_	
+16-16	990-994	avec	_	
+16-17	995-997	de	_	
+16-18	998-1000	la	_	
+16-19	1001-1007	tisane	_	
+16-20	1008-1010	et	_	
+16-21	1011-1013	du	_	
+16-22	1014-1022	bouillon	_	
+16-23	1022-1023	!	_	
+
+#Text=C'était barbare et superbe, quelque chose comme un ventre aperçu dans une gloire, mais avec une cruauté de touche, un emportement de raillerie tels, que la foule s'attroupa devant la vitrine, inquiétée par cet étalage qui flambait si rudement... Quand ma tante Lisa revint de la cuisine, elle eut peur, s'imaginant que j'avais mis le feu aux graisses de la boutique.
+17-1	1024-1031	C'était	_	
+17-2	1032-1039	barbare	_	
+17-3	1040-1042	et	_	
+17-4	1043-1050	superbe	_	
+17-5	1050-1051	,	_	
+17-6	1052-1059	quelque	_	
+17-7	1060-1065	chose	_	
+17-8	1066-1071	comme	_	
+17-9	1072-1074	un	_	
+17-10	1075-1081	ventre	_	
+17-11	1082-1088	aperçu	_	
+17-12	1089-1093	dans	_	
+17-13	1094-1097	une	_	
+17-14	1098-1104	gloire	_	
+17-15	1104-1105	,	_	
+17-16	1106-1110	mais	_	
+17-17	1111-1115	avec	_	
+17-18	1116-1119	une	_	
+17-19	1120-1127	cruauté	_	
+17-20	1128-1130	de	_	
+17-21	1131-1137	touche	_	
+17-22	1137-1138	,	_	
+17-23	1139-1141	un	_	
+17-24	1142-1153	emportement	_	
+17-25	1154-1156	de	_	
+17-26	1157-1166	raillerie	_	
+17-27	1167-1171	tels	_	
+17-28	1171-1172	,	_	
+17-29	1173-1176	que	_	
+17-30	1177-1179	la	_	
+17-31	1180-1185	foule	_	
+17-32	1186-1196	s'attroupa	_	
+17-33	1197-1203	devant	_	
+17-34	1204-1206	la	_	
+17-35	1207-1214	vitrine	_	
+17-36	1214-1215	,	_	
+17-37	1216-1225	inquiétée	_	
+17-38	1226-1229	par	_	
+17-39	1230-1233	cet	_	
+17-40	1234-1241	étalage	_	
+17-41	1242-1245	qui	_	
+17-42	1246-1254	flambait	_	
+17-43	1255-1257	si	_	
+17-44	1258-1266	rudement	_	
+17-45	1266-1267	.	_	
+17-46	1267-1268	.	_	
+17-47	1268-1269	.	_	
+17-48	1270-1275	Quand	_	
+17-49	1276-1278	ma	_	
+17-50	1279-1284	tante	_	
+17-51	1285-1289	Lisa	pers.ind	
+17-52	1290-1296	revint	_	
+17-53	1297-1299	de	_	
+17-54	1300-1302	la	_	
+17-55	1303-1310	cuisine	_	
+17-56	1310-1311	,	_	
+17-57	1312-1316	elle	_	
+17-58	1317-1320	eut	_	
+17-59	1321-1325	peur	_	
+17-60	1325-1326	,	_	
+17-61	1327-1338	s'imaginant	_	
+17-62	1339-1342	que	_	
+17-63	1343-1350	j'avais	_	
+17-64	1351-1354	mis	_	
+17-65	1355-1357	le	_	
+17-66	1358-1361	feu	_	
+17-67	1362-1365	aux	_	
+17-68	1366-1374	graisses	_	
+17-69	1375-1377	de	_	
+17-70	1378-1380	la	_	
+17-71	1381-1389	boutique	_	
+17-72	1389-1390	.	_	
+
+#Text=Là, dans l'air renfermé, dans le demi-jour des quelques becs de gaz, il retrouvait la fraîcheur de l'eau pure.
+18-1	1391-1393	Là	_	
+18-2	1393-1394	,	_	
+18-3	1395-1399	dans	_	
+18-4	1400-1405	l'air	_	
+18-5	1406-1414	renfermé	_	
+18-6	1414-1415	,	_	
+18-7	1416-1420	dans	_	
+18-8	1421-1423	le	_	
+18-9	1424-1433	demi-jour	_	
+18-10	1434-1437	des	_	
+18-11	1438-1446	quelques	_	
+18-12	1447-1451	becs	_	
+18-13	1452-1454	de	_	
+18-14	1455-1458	gaz	_	
+18-15	1458-1459	,	_	
+18-16	1460-1462	il	_	
+18-17	1463-1473	retrouvait	_	
+18-18	1474-1476	la	_	
+18-19	1477-1486	fraîcheur	_	
+18-20	1487-1489	de	_	
+18-21	1490-1495	l'eau	_	
+18-22	1496-1500	pure	_	
+18-23	1500-1501	.	_	
+
+#Text=-- Monsieur Gavard est tout an fond, dit le jeune homme, qui marchait toujours.
+19-1	1502-1503	-	_	
+19-2	1503-1504	-	_	
+19-3	1504-1505	 	_	
+19-4	1505-1513	Monsieur	pers.ind[6]	
+19-5	1514-1520	Gavard	pers.ind[6]	
+19-6	1521-1524	est	_	
+19-7	1525-1529	tout	_	
+19-8	1530-1532	an	_	
+19-9	1533-1537	fond	_	
+19-10	1537-1538	,	_	
+19-11	1539-1542	dit	_	
+19-12	1543-1545	le	_	
+19-13	1546-1551	jeune	_	
+19-14	1552-1557	homme	_	
+19-15	1557-1558	,	_	
+19-16	1559-1562	qui	_	
+19-17	1563-1571	marchait	_	
+19-18	1572-1580	toujours	_	
+19-19	1580-1581	.	_	
+
+#Text=Le soir, sans savoir comment, encore dans l'ébranlement des scènes horribles de l'après-midi, il se trouva rue Montorgueil, chez un marchand de vin, où des hommes buvaient en parlant de faire des barricades.
+20-1	1582-1584	Le	time.hour.rel[7]	
+20-2	1585-1589	soir	time.hour.rel[7]	
+20-3	1589-1590	,	_	
+20-4	1591-1595	sans	_	
+20-5	1596-1602	savoir	_	
+20-6	1603-1610	comment	_	
+20-7	1610-1611	,	_	
+20-8	1612-1618	encore	_	
+20-9	1619-1623	dans	_	
+20-10	1624-1637	l'ébranlement	_	
+20-11	1638-1641	des	_	
+20-12	1642-1648	scènes	_	
+20-13	1649-1658	horribles	_	
+20-14	1659-1661	de	_	
+20-15	1662-1674	l'après-midi	time.hour.rel[8]	
+20-16	1674-1675	,	time.hour.rel[8]	
+20-17	1676-1678	il	_	
+20-18	1679-1681	se	_	
+20-19	1682-1688	trouva	_	
+20-20	1689-1692	rue	loc.oro[9]	
+20-21	1693-1704	Montorgueil	loc.oro[9]	
+20-22	1704-1705	,	_	
+20-23	1706-1710	chez	_	
+20-24	1711-1713	un	_	
+20-25	1714-1722	marchand	func.ind[10]	
+20-26	1723-1725	de	func.ind[10]	
+20-27	1726-1729	vin	func.ind[10]	
+20-28	1729-1730	,	_	
+20-29	1731-1733	où	_	
+20-30	1734-1737	des	_	
+20-31	1738-1744	hommes	_	
+20-32	1745-1753	buvaient	_	
+20-33	1754-1756	en	_	
+20-34	1757-1764	parlant	_	
+20-35	1765-1767	de	_	
+20-36	1768-1773	faire	_	
+20-37	1774-1777	des	_	
+20-38	1778-1788	barricades	_	
+20-39	1788-1789	.	_	
+
+#Text=Je n'ai jamais fini, jamais, jamais.
+21-1	1790-1792	Je	_	
+21-2	1793-1797	n'ai	_	
+21-3	1798-1804	jamais	_	
+21-4	1805-1809	fini	_	
+21-5	1809-1810	,	_	
+21-6	1811-1817	jamais	_	
+21-7	1817-1818	,	_	
+21-8	1819-1825	jamais	_	
+21-9	1825-1826	.	_	
+
+#Text=Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
+22-1	1827-1831	Many	_	
+22-2	1832-1837	small	_	
+22-3	1838-1847	donations	_	
+22-4	1848-1849	(	_	
+22-5	1849-1851	$1	_	
+22-6	1852-1854	to	_	
+22-7	1855-1861	$5,000	_	
+22-8	1861-1862	)	_	
+22-9	1863-1866	are	_	
+22-10	1867-1879	particularly	_	
+22-11	1880-1889	important	_	
+22-12	1890-1892	to	_	
+22-13	1893-1904	maintaining	_	
+22-14	1905-1908	tax	_	
+22-15	1909-1915	exempt	_	
+22-16	1916-1922	status	_	
+22-17	1923-1927	with	_	
+22-18	1928-1931	the	_	
+22-19	1932-1935	IRS	org.adm	
+22-20	1935-1936	.	_	
+
+#Text=La grande brune n'était plus tablettière à la poissonnerie.
+23-1	1937-1939	La	_	
+23-2	1940-1946	grande	_	
+23-3	1947-1952	brune	_	
+23-4	1953-1960	n'était	_	
+23-5	1961-1965	plus	_	
+23-6	1966-1977	tablettière	func.ind	
+23-7	1978-1979	à	_	
+23-8	1980-1982	la	_	
+23-9	1983-1995	poissonnerie	_	
+23-10	1995-1996	.	_	
+
+#Text=La vieille Méhudin riait avec des secousses sourdes, comme une outre pleine que l'on vide.
+24-1	1997-1999	La	_	
+24-2	2000-2007	vieille	pers.ind[11]	
+24-3	2008-2015	Méhudin	pers.ind[11]	
+24-4	2016-2021	riait	_	
+24-5	2022-2026	avec	_	
+24-6	2027-2030	des	_	
+24-7	2031-2040	secousses	_	
+24-8	2041-2048	sourdes	_	
+24-9	2048-2049	,	_	
+24-10	2050-2055	comme	_	
+24-11	2056-2059	une	_	
+24-12	2060-2065	outre	_	
+24-13	2066-2072	pleine	_	
+24-14	2073-2076	que	_	
+24-15	2077-2081	l'on	_	
+24-16	2082-2086	vide	_	
+24-17	2086-2087	.	_	
+
+#Text=Et cette vieille Méhudin qui couche dans un cabinet entre les chambres de ses filles!
+25-1	2088-2090	Et	_	
+25-2	2091-2096	cette	_	
+25-3	2097-2104	vieille	pers.ind[12]	
+25-4	2105-2112	Méhudin	pers.ind[12]	
+25-5	2113-2116	qui	_	
+25-6	2117-2123	couche	_	
+25-7	2124-2128	dans	_	
+25-8	2129-2131	un	_	
+25-9	2132-2139	cabinet	_	
+25-10	2140-2145	entre	_	
+25-11	2146-2149	les	_	
+25-12	2150-2158	chambres	_	
+25-13	2159-2161	de	_	
+25-14	2162-2165	ses	_	
+25-15	2166-2172	filles	_	
+25-16	2172-2173	!	_	
+
+#Text=Il les voyait roucoulant sur le bras de marbre du lutteur antique, au milieu du grand silence du jardin, tandis que, sous l'ombre noire des marronniers, des petites filles jouent au cerceau.
+26-1	2174-2176	Il	_	
+26-2	2177-2180	les	_	
+26-3	2181-2187	voyait	_	
+26-4	2188-2198	roucoulant	_	
+26-5	2199-2202	sur	_	
+26-6	2203-2205	le	_	
+26-7	2206-2210	bras	_	
+26-8	2211-2213	de	_	
+26-9	2214-2220	marbre	_	
+26-10	2221-2223	du	_	
+26-11	2224-2231	lutteur	_	
+26-12	2232-2239	antique	_	
+26-13	2239-2240	,	_	
+26-14	2241-2243	au	_	
+26-15	2244-2250	milieu	_	
+26-16	2251-2253	du	_	
+26-17	2254-2259	grand	_	
+26-18	2260-2267	silence	_	
+26-19	2268-2270	du	_	
+26-20	2271-2277	jardin	_	
+26-21	2277-2278	,	_	
+26-22	2279-2285	tandis	_	
+26-23	2286-2289	que	_	
+26-24	2289-2290	,	_	
+26-25	2291-2295	sous	_	
+26-26	2296-2303	l'ombre	_	
+26-27	2304-2309	noire	_	
+26-28	2310-2313	des	_	
+26-29	2314-2325	marronniers	_	
+26-30	2325-2326	,	_	
+26-31	2327-2330	des	_	
+26-32	2331-2338	petites	_	
+26-33	2339-2345	filles	_	
+26-34	2346-2352	jouent	_	
+26-35	2353-2355	au	_	
+26-36	2356-2363	cerceau	_	
+26-37	2363-2364	.	_	
+
+#Text=Parfois même, elle choisissait dans les vitrines, parmi les coupons plissés et avantagés par la main des commis, une soie tendre, bleu ciel ou vert pomme, qu'elle rêvait de porter avec des rubans roses.
+27-1	2365-2372	Parfois	_	
+27-2	2373-2377	même	_	
+27-3	2377-2378	,	_	
+27-4	2379-2383	elle	_	
+27-5	2384-2395	choisissait	_	
+27-6	2396-2400	dans	_	
+27-7	2401-2404	les	_	
+27-8	2405-2413	vitrines	_	
+27-9	2413-2414	,	_	
+27-10	2415-2420	parmi	_	
+27-11	2421-2424	les	_	
+27-12	2425-2432	coupons	_	
+27-13	2433-2440	plissés	_	
+27-14	2441-2443	et	_	
+27-15	2444-2453	avantagés	_	
+27-16	2454-2457	par	_	
+27-17	2458-2460	la	_	
+27-18	2461-2465	main	_	
+27-19	2466-2469	des	_	
+27-20	2470-2476	commis	func.coll	
+27-21	2476-2477	,	_	
+27-22	2478-2481	une	_	
+27-23	2482-2486	soie	_	
+27-24	2487-2493	tendre	_	
+27-25	2493-2494	,	_	
+27-26	2495-2499	bleu	_	
+27-27	2500-2504	ciel	_	
+27-28	2505-2507	ou	_	
+27-29	2508-2512	vert	_	
+27-30	2513-2518	pomme	_	
+27-31	2518-2519	,	_	
+27-32	2520-2527	qu'elle	_	
+27-33	2528-2534	rêvait	_	
+27-34	2535-2537	de	_	
+27-35	2538-2544	porter	_	
+27-36	2545-2549	avec	_	
+27-37	2550-2553	des	_	
+27-38	2554-2560	rubans	_	
+27-39	2561-2566	roses	_	
+27-40	2566-2567	.	_	
+
+#Text=Et il s'arrêta, découragé, effaré, ne pouvant se dégager de cette infernale ronde d'herbes qui finissaient par tourner autour de lui en le liant aux jambes de leurs minces verdures.
+28-1	2568-2570	Et	_	
+28-2	2571-2573	il	_	
+28-3	2574-2582	s'arrêta	_	
+28-4	2582-2583	,	_	
+28-5	2584-2593	découragé	_	
+28-6	2593-2594	,	_	
+28-7	2595-2601	effaré	_	
+28-8	2601-2602	,	_	
+28-9	2603-2605	ne	_	
+28-10	2606-2613	pouvant	_	
+28-11	2614-2616	se	_	
+28-12	2617-2624	dégager	_	
+28-13	2625-2627	de	_	
+28-14	2628-2633	cette	_	
+28-15	2634-2643	infernale	_	
+28-16	2644-2649	ronde	_	
+28-17	2650-2658	d'herbes	_	
+28-18	2659-2662	qui	_	
+28-19	2663-2674	finissaient	_	
+28-20	2675-2678	par	_	
+28-21	2679-2686	tourner	_	
+28-22	2687-2693	autour	_	
+28-23	2694-2696	de	_	
+28-24	2697-2700	lui	_	
+28-25	2701-2703	en	_	
+28-26	2704-2706	le	_	
+28-27	2707-2712	liant	_	
+28-28	2713-2716	aux	_	
+28-29	2717-2723	jambes	_	
+28-30	2724-2726	de	_	
+28-31	2727-2732	leurs	_	
+28-32	2733-2739	minces	_	
+28-33	2740-2748	verdures	_	
+28-34	2748-2749	.	_	
+
+#Text=Je n'en aurais pas donné dix mille, moi!
+29-1	2750-2752	Je	_	
+29-2	2753-2757	n'en	_	
+29-3	2758-2764	aurais	_	
+29-4	2765-2768	pas	_	
+29-5	2769-2774	donné	_	
+29-6	2775-2778	dix	amount[13]	
+29-7	2779-2784	mille	amount[13]	
+29-8	2784-2785	,	_	
+29-9	2786-2789	moi	_	
+29-10	2789-2790	!	_	
+
+#Text=Cela l'ennuya, et il tremblait un peu en s'adressant à la belle Lisa.
+30-1	2791-2795	Cela	_	
+30-2	2796-2804	l'ennuya	_	
+30-3	2804-2805	,	_	
+30-4	2806-2808	et	_	
+30-5	2809-2811	il	_	
+30-6	2812-2821	tremblait	_	
+30-7	2822-2824	un	_	
+30-8	2825-2828	peu	_	
+30-9	2829-2831	en	_	
+30-10	2832-2843	s'adressant	_	
+30-11	2844-2845	à	_	
+30-12	2846-2848	la	_	
+30-13	2849-2854	belle	_	
+30-14	2855-2859	Lisa	pers.ind	
+30-15	2859-2860	.	_	
+
+#Text=Florent, pour passer, dut s'appuyer contre un des sacs grisâtres, pareils à des sacs de charbon, et dont l'énorme charge faisait plier les essieux; les sacs, mouillés, avaient une odeur fraîche d'algues marines; un d'eux, crevé par un bout, laissait couler un tas noir de grosses moules.
+31-1	2861-2868	Florent	pers.ind	
+31-2	2868-2869	,	_	
+31-3	2870-2874	pour	_	
+31-4	2875-2881	passer	_	
+31-5	2881-2882	,	_	
+31-6	2883-2886	dut	_	
+31-7	2887-2896	s'appuyer	_	
+31-8	2897-2903	contre	_	
+31-9	2904-2906	un	_	
+31-10	2907-2910	des	_	
+31-11	2911-2915	sacs	_	
+31-12	2916-2925	grisâtres	_	
+31-13	2925-2926	,	_	
+31-14	2927-2934	pareils	_	
+31-15	2935-2936	à	_	
+31-16	2937-2940	des	_	
+31-17	2941-2945	sacs	_	
+31-18	2946-2948	de	_	
+31-19	2949-2956	charbon	_	
+31-20	2956-2957	,	_	
+31-21	2958-2960	et	_	
+31-22	2961-2965	dont	_	
+31-23	2966-2974	l'énorme	_	
+31-24	2975-2981	charge	_	
+31-25	2982-2989	faisait	_	
+31-26	2990-2995	plier	_	
+31-27	2996-2999	les	_	
+31-28	3000-3007	essieux	_	
+31-29	3007-3008	;	_	
+31-30	3009-3012	les	_	
+31-31	3013-3017	sacs	_	
+31-32	3017-3018	,	_	
+31-33	3019-3027	mouillés	_	
+31-34	3027-3028	,	_	
+31-35	3029-3036	avaient	_	
+31-36	3037-3040	une	_	
+31-37	3041-3046	odeur	_	
+31-38	3047-3054	fraîche	_	
+31-39	3055-3063	d'algues	_	
+31-40	3064-3071	marines	_	
+31-41	3071-3072	;	_	
+31-42	3073-3075	un	_	
+31-43	3076-3081	d'eux	_	
+31-44	3081-3082	,	_	
+31-45	3083-3088	crevé	_	
+31-46	3089-3092	par	_	
+31-47	3093-3095	un	_	
+31-48	3096-3100	bout	_	
+31-49	3100-3101	,	_	
+31-50	3102-3110	laissait	_	
+31-51	3111-3117	couler	_	
+31-52	3118-3120	un	_	
+31-53	3121-3124	tas	_	
+31-54	3125-3129	noir	_	
+31-55	3130-3132	de	_	
+31-56	3133-3140	grosses	_	
+31-57	3141-3147	moules	_	
+31-58	3147-3148	.	_	
+
+#Text=Comme il était en veine d'esprit:  -- Fichtre!
+32-1	3149-3154	Comme	_	
+32-2	3155-3157	il	_	
+32-3	3158-3163	était	_	
+32-4	3164-3166	en	_	
+32-5	3167-3172	veine	_	
+32-6	3173-3181	d'esprit	_	
+32-7	3181-3182	:	_	
+32-8	3184-3185	-	_	
+32-9	3185-3186	-	_	
+32-10	3186-3187	 	_	
+32-11	3187-3194	Fichtre	_	
+32-12	3194-3195	!	_	
+
+#Text=-- Voilà mon opinion, chère dame, dit-il en finissant.
+33-1	3196-3197	-	_	
+33-2	3197-3198	-	_	
+33-3	3198-3199	 	_	
+33-4	3199-3204	Voilà	_	
+33-5	3205-3208	mon	_	
+33-6	3209-3216	opinion	_	
+33-7	3216-3217	,	_	
+33-8	3218-3223	chère	_	
+33-9	3224-3228	dame	_	
+33-10	3228-3229	,	_	
+33-11	3230-3236	dit-il	_	
+33-12	3237-3239	en	_	
+33-13	3240-3249	finissant	_	
+33-14	3249-3250	.	_	
+
+#Text=trente-trois cinquante!...
+34-1	3251-3263	trente-trois	_	
+34-2	3264-3273	cinquante	_	
+34-3	3273-3274	!	_	
+34-4	3274-3275	.	_	
+34-5	3275-3276	.	_	
+34-6	3276-3277	.	_	
+
+#Text=-- C'est Charvet, dit-il au bout d'un instant, qui doit en avoir assez... Il attend Clémence sur le trottoir.
+35-1	3278-3279	-	_	
+35-2	3279-3280	-	_	
+35-3	3280-3281	 	_	
+35-4	3281-3286	C'est	_	
+35-5	3287-3294	Charvet	pers.ind	
+35-6	3294-3295	,	_	
+35-7	3296-3302	dit-il	_	
+35-8	3303-3305	au	_	
+35-9	3306-3310	bout	_	
+35-10	3311-3315	d'un	_	
+35-11	3316-3323	instant	_	
+35-12	3323-3324	,	_	
+35-13	3325-3328	qui	_	
+35-14	3329-3333	doit	_	
+35-15	3334-3336	en	_	
+35-16	3337-3342	avoir	_	
+35-17	3343-3348	assez	_	
+35-18	3348-3349	.	_	
+35-19	3349-3350	.	_	
+35-20	3350-3351	.	_	
+35-21	3352-3354	Il	_	
+35-22	3355-3361	attend	_	
+35-23	3362-3370	Clémence	pers.ind	
+35-24	3371-3374	sur	_	
+35-25	3375-3377	le	_	
+35-26	3378-3386	trottoir	_	
+35-27	3386-3387	.	_	
+
+#Text=Les trois femmes étaient un peu pâles.
+36-1	3388-3391	Les	_	
+36-2	3392-3397	trois	_	
+36-3	3398-3404	femmes	_	
+36-4	3405-3412	étaient	_	
+36-5	3413-3415	un	_	
+36-6	3416-3419	peu	_	
+36-7	3420-3425	pâles	_	
+36-8	3425-3426	.	_	
+
+#Text=madame Lecoeur, si on peut dire... Vous savez, une femme seule.
+37-1	3427-3433	madame	pers.ind[14]	
+37-2	3434-3441	Lecoeur	pers.ind[14]	
+37-3	3441-3442	,	_	
+37-4	3443-3445	si	_	
+37-5	3446-3448	on	_	
+37-6	3449-3453	peut	_	
+37-7	3454-3458	dire	_	
+37-8	3458-3459	.	_	
+37-9	3459-3460	.	_	
+37-10	3460-3461	.	_	
+37-11	3462-3466	Vous	_	
+37-12	3467-3472	savez	_	
+37-13	3472-3473	,	_	
+37-14	3474-3477	une	_	
+37-15	3478-3483	femme	_	
+37-16	3484-3489	seule	_	
+37-17	3489-3490	.	_	
+
+#Text=Vous n'avez pas vu, vous autres?
+38-1	3491-3495	Vous	_	
+38-2	3496-3502	n'avez	_	
+38-3	3503-3506	pas	_	
+38-4	3507-3509	vu	_	
+38-5	3509-3510	,	_	
+38-6	3511-3515	vous	_	
+38-7	3516-3522	autres	_	
+38-8	3522-3523	?	_	
+
+#Text=Quenu hachait des foies de cochon.
+39-1	3524-3529	Quenu	pers.ind	
+39-2	3530-3537	hachait	_	
+39-3	3538-3541	des	_	
+39-4	3542-3547	foies	_	
+39-5	3548-3550	de	_	
+39-6	3551-3557	cochon	_	
+39-7	3557-3558	.	_	
+
+#Text=Alors, pourquoi parles-tu de renverser le gouvernement, qui te protège et te permet de faire des économies?
+40-1	3559-3564	Alors	_	
+40-2	3564-3565	,	_	
+40-3	3566-3574	pourquoi	_	
+40-4	3575-3584	parles-tu	_	
+40-5	3585-3587	de	_	
+40-6	3588-3597	renverser	_	
+40-7	3598-3600	le	_	
+40-8	3601-3613	gouvernement	_	
+40-9	3613-3614	,	_	
+40-10	3615-3618	qui	_	
+40-11	3619-3621	te	_	
+40-12	3622-3629	protège	_	
+40-13	3630-3632	et	_	
+40-14	3633-3635	te	_	
+40-15	3636-3642	permet	_	
+40-16	3643-3645	de	_	
+40-17	3646-3651	faire	_	
+40-18	3652-3655	des	_	
+40-19	3656-3665	économies	_	
+40-20	3665-3666	?	_	
+
+#Text=On vivait en bête, avec le fouet éternellement levé sur les épaules.
+41-1	3667-3669	On	_	
+41-2	3670-3676	vivait	_	
+41-3	3677-3679	en	_	
+41-4	3680-3684	bête	_	
+41-5	3684-3685	,	_	
+41-6	3686-3690	avec	_	
+41-7	3691-3693	le	_	
+41-8	3694-3699	fouet	_	
+41-9	3700-3713	éternellement	_	
+41-10	3714-3718	levé	_	
+41-11	3719-3722	sur	_	
+41-12	3723-3726	les	_	
+41-13	3727-3734	épaules	_	
+41-14	3734-3735	.	_	
+
+#Text=Il n'y a encore que l'autorité, entendez-vous, Florent.
+42-1	3736-3738	Il	_	
+42-2	3739-3742	n'y	_	
+42-3	3743-3744	a	_	
+42-4	3745-3751	encore	_	
+42-5	3752-3755	que	_	
+42-6	3756-3766	l'autorité	_	
+42-7	3766-3767	,	_	
+42-8	3768-3781	entendez-vous	_	
+42-9	3781-3782	,	_	
+42-10	3783-3790	Florent	pers.ind	
+42-11	3790-3791	.	_	
+
+#Text=Il y vit bientôt un devoir, une mission.
+43-1	3792-3794	Il	_	
+43-2	3795-3796	y	_	
+43-3	3797-3800	vit	_	
+43-4	3801-3808	bientôt	_	
+43-5	3809-3811	un	_	
+43-6	3812-3818	devoir	_	
+43-7	3818-3819	,	_	
+43-8	3820-3823	une	_	
+43-9	3824-3831	mission	_	
+43-10	3831-3832	.	_	
+
+#Text=Les quelques francs qui lui restaient suffisaient à payer sa consommation, le soir, chez monsieur Lebigre.
+44-1	3833-3836	Les	_	
+44-2	3837-3845	quelques	amount[15]	
+44-3	3846-3852	francs	amount[15]	
+44-4	3853-3856	qui	_	
+44-5	3857-3860	lui	_	
+44-6	3861-3870	restaient	_	
+44-7	3871-3882	suffisaient	_	
+44-8	3883-3884	à	_	
+44-9	3885-3890	payer	_	
+44-10	3891-3893	sa	_	
+44-11	3894-3906	consommation	_	
+44-12	3906-3907	,	_	
+44-13	3908-3910	le	time.hour.rel[16]	
+44-14	3911-3915	soir	time.hour.rel[16]	
+44-15	3915-3916	,	_	
+44-16	3917-3921	chez	_	
+44-17	3922-3930	monsieur	pers.ind[17]	
+44-18	3931-3938	Lebigre	pers.ind[17]	
+44-19	3938-3939	.	_	
+
+#Text=Enfin, ça le regarde... Nous préférons ne gagner que cent sous, et profiter des cent sous.
+45-1	3940-3945	Enfin	_	
+45-2	3945-3946	,	_	
+45-3	3947-3949	ça	_	
+45-4	3950-3952	le	_	
+45-5	3953-3960	regarde	_	
+45-6	3960-3961	.	_	
+45-7	3961-3962	.	_	
+45-8	3962-3963	.	_	
+45-9	3964-3968	Nous	_	
+45-10	3969-3978	préférons	_	
+45-11	3979-3981	ne	_	
+45-12	3982-3988	gagner	_	
+45-13	3989-3992	que	_	
+45-14	3993-3997	cent	amount[18]	
+45-15	3998-4002	sous	amount[18]	
+45-16	4002-4003	,	_	
+45-17	4004-4006	et	_	
+45-18	4007-4015	profiter	_	
+45-19	4016-4019	des	_	
+45-20	4020-4024	cent	amount[19]	
+45-21	4025-4029	sous	amount[19]	
+45-22	4029-4030	.	_	
+
+#Text=Et je vous défie bien d'arrêter cette revendication du peuple.
+46-1	4031-4033	Et	_	
+46-2	4034-4036	je	_	
+46-3	4037-4041	vous	_	
+46-4	4042-4047	défie	_	
+46-5	4048-4052	bien	_	
+46-6	4053-4062	d'arrêter	_	
+46-7	4063-4068	cette	_	
+46-8	4069-4082	revendication	_	
+46-9	4083-4085	du	_	
+46-10	4086-4092	peuple	_	
+46-11	4092-4093	.	_	
+
+#Text=V   Le lendemain, vers quatre heures, Lisa se rendit à Saint-Eustache.
+47-1	4094-4095	V	_	
+47-2	4098-4100	Le	time.date.rel[20]	
+47-3	4101-4110	lendemain	time.date.rel[20]	
+47-4	4110-4111	,	_	
+47-5	4112-4116	vers	time.hour.abs[21]	
+47-6	4117-4123	quatre	time.hour.abs[21]	
+47-7	4124-4130	heures	time.hour.abs[21]	
+47-8	4130-4131	,	_	
+47-9	4132-4136	Lisa	pers.ind	
+47-10	4137-4139	se	_	
+47-11	4140-4146	rendit	_	
+47-12	4147-4148	à	_	
+47-13	4149-4163	Saint-Eustache	loc.fac	
+47-14	4163-4164	.	_	
+
+#Text=À cette heure avancée de la nuit, dans la chaleur de cette pièce, ses âpretés, ses volontés se fondaient en lui; il se sentait si alangui par cette soirée calme, par les parfums du boudin et du saindoux, par cette grosse Pauline endormie sur ses genoux, qu'il se surprit à vouloir passer d'autres soirées semblables, des soirées sans fin, qui l'engraisseraient.
+48-1	4165-4166	À	time.hour.rel[22]	
+48-2	4167-4172	cette	time.hour.rel[22]	
+48-3	4173-4178	heure	time.hour.rel[22]	
+48-4	4179-4186	avancée	time.hour.rel[22]	
+48-5	4187-4189	de	time.hour.rel[22]	
+48-6	4190-4192	la	time.hour.rel[22]	
+48-7	4193-4197	nuit	time.hour.rel[22]	
+48-8	4197-4198	,	_	
+48-9	4199-4203	dans	_	
+48-10	4204-4206	la	_	
+48-11	4207-4214	chaleur	_	
+48-12	4215-4217	de	_	
+48-13	4218-4223	cette	_	
+48-14	4224-4229	pièce	_	
+48-15	4229-4230	,	_	
+48-16	4231-4234	ses	_	
+48-17	4235-4242	âpretés	_	
+48-18	4242-4243	,	_	
+48-19	4244-4247	ses	_	
+48-20	4248-4256	volontés	_	
+48-21	4257-4259	se	_	
+48-22	4260-4269	fondaient	_	
+48-23	4270-4272	en	_	
+48-24	4273-4276	lui	_	
+48-25	4276-4277	;	_	
+48-26	4278-4280	il	_	
+48-27	4281-4283	se	_	
+48-28	4284-4291	sentait	_	
+48-29	4292-4294	si	_	
+48-30	4295-4302	alangui	_	
+48-31	4303-4306	par	_	
+48-32	4307-4312	cette	_	
+48-33	4313-4319	soirée	_	
+48-34	4320-4325	calme	_	
+48-35	4325-4326	,	_	
+48-36	4327-4330	par	_	
+48-37	4331-4334	les	_	
+48-38	4335-4342	parfums	_	
+48-39	4343-4345	du	_	
+48-40	4346-4352	boudin	_	
+48-41	4353-4355	et	_	
+48-42	4356-4358	du	_	
+48-43	4359-4367	saindoux	_	
+48-44	4367-4368	,	_	
+48-45	4369-4372	par	_	
+48-46	4373-4378	cette	_	
+48-47	4379-4385	grosse	_	
+48-48	4386-4393	Pauline	pers.ind	
+48-49	4394-4402	endormie	_	
+48-50	4403-4406	sur	_	
+48-51	4407-4410	ses	_	
+48-52	4411-4417	genoux	_	
+48-53	4417-4418	,	_	
+48-54	4419-4424	qu'il	_	
+48-55	4425-4427	se	_	
+48-56	4428-4435	surprit	_	
+48-57	4436-4437	à	_	
+48-58	4438-4445	vouloir	_	
+48-59	4446-4452	passer	_	
+48-60	4453-4461	d'autres	_	
+48-61	4462-4469	soirées	_	
+48-62	4470-4480	semblables	_	
+48-63	4480-4481	,	_	
+48-64	4482-4485	des	_	
+48-65	4486-4493	soirées	_	
+48-66	4494-4498	sans	_	
+48-67	4499-4502	fin	_	
+48-68	4502-4503	,	_	
+48-69	4504-4507	qui	_	
+48-70	4508-4525	l'engraisseraient	_	
+48-71	4525-4526	.	_	
+
+#Text=Elle avait soigneusement écarté toutes les causes possibles de trouble, laissant couler les journées au milieu de cet air gras, de cette prospérité alourdie.
+49-1	4527-4531	Elle	_	
+49-2	4532-4537	avait	_	
+49-3	4538-4551	soigneusement	_	
+49-4	4552-4558	écarté	_	
+49-5	4559-4565	toutes	_	
+49-6	4566-4569	les	_	
+49-7	4570-4576	causes	_	
+49-8	4577-4586	possibles	_	
+49-9	4587-4589	de	_	
+49-10	4590-4597	trouble	_	
+49-11	4597-4598	,	_	
+49-12	4599-4607	laissant	_	
+49-13	4608-4614	couler	_	
+49-14	4615-4618	les	_	
+49-15	4619-4627	journées	_	
+49-16	4628-4630	au	_	
+49-17	4631-4637	milieu	_	
+49-18	4638-4640	de	_	
+49-19	4641-4644	cet	_	
+49-20	4645-4648	air	_	
+49-21	4649-4653	gras	_	
+49-22	4653-4654	,	_	
+49-23	4655-4657	de	_	
+49-24	4658-4663	cette	_	
+49-25	4664-4674	prospérité	_	
+49-26	4675-4683	alourdie	_	
+49-27	4683-4684	.	_	
+
+#Text=Alors elle le coucha chez une voisine.
+50-1	4685-4690	Alors	_	
+50-2	4691-4695	elle	_	
+50-3	4696-4698	le	_	
+50-4	4699-4705	coucha	_	
+50-5	4706-4710	chez	_	
+50-6	4711-4714	une	_	
+50-7	4715-4722	voisine	_	
+50-8	4722-4723	.	_	
+
+#Text=Florent, j'ai mieux que lui!
+51-1	4724-4731	Florent	pers.ind	
+51-2	4731-4732	,	_	
+51-3	4733-4737	j'ai	_	
+51-4	4738-4743	mieux	_	
+51-5	4744-4747	que	_	
+51-6	4748-4751	lui	_	
+51-7	4751-4752	!	_	

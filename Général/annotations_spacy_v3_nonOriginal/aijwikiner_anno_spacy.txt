@@ -1,0 +1,88 @@
+Rome 	 103 	 107 	 LOC
+Actium 	 142 	 148 	 MISC
+Inde 	 209 	 213 	 LOC
+Ballard 	 283 	 290 	 PER
+Joy Division 	 337 	 349 	 ORG
+The Normal 	 351 	 361 	 PER
+John Foxx 	 365 	 374 	 PER
+Jiang Qing 	 376 	 386 	 PER
+Mao Zedong 	 400 	 410 	 PER
+bande des Quatre 	 418 	 434 	 ORG
+Arrhenius 	 582 	 591 	 PER
+Michael Faraday 	 672 	 687 	 PER
+Fringe 	 759 	 765 	 MISC
+Boston 	 789 	 795 	 LOC
+Lance et compte 	 842 	 857 	 MISC
+Elizabeth II 	 963 	 975 	 PER
+Angleterre 	 979 	 989 	 LOC
+Bob Rock 	 1014 	 1022 	 PER
+Metallica 	 1081 	 1090 	 ORG
+Louis XV 	 1177 	 1185 	 PER
+Pierre-Antoine Demachy 	 1398 	 1420 	 PER
+États-Unis 	 1539 	 1549 	 LOC
+États-Unis 	 1555 	 1565 	 LOC
+DMCA 	 1617 	 1621 	 MISC
+Galilée 	 1667 	 1674 	 PER
+Locke 	 1676 	 1681 	 PER
+OMG 	 1939 	 1942 	 ORG
+Object Management Group 	 1945 	 1968 	 ORG
+New York Times 	 2126 	 2140 	 ORG
+Beloved 	 2150 	 2157 	 MISC
+Musée du Louvre 	 2240 	 2255 	 LOC
+Morrison 	 2264 	 2272 	 PER
+Olav Tryggvason 	 2493 	 2508 	 PER
+Oslo 	 2566 	 2570 	 LOC
+Lorient 	 2580 	 2587 	 LOC
+Bretagne 	 2605 	 2613 	 LOC
+département du Morbihan 	 2649 	 2672 	 LOC
+rivière des Perles 	 2696 	 2714 	 LOC
+Guangdong 	 2735 	 2744 	 LOC
+Hong Kong 	 2780 	 2789 	 LOC
+Canton 	 2791 	 2797 	 LOC
+Shenzhen 	 2801 	 2809 	 LOC
+Bali 	 2834 	 2838 	 LOC
+USC Trojans 	 3008 	 3019 	 MISC
+UCLA Bruins 	 3027 	 3038 	 ORG
+Armstrong 	 3118 	 3127 	 PER
+Bob Hope 	 3164 	 3172 	 PER
+United Service Organizations 	 3179 	 3207 	 ORG
+Ma mère tout 	 3222 	 3234 	 MISC
+Juif 	 3379 	 3383 	 MISC
+Granville 	 3429 	 3438 	 LOC
+Chausey 	 3515 	 3522 	 LOC
+Paris 	 3577 	 3582 	 LOC
+Notre-Dame 	 3586 	 3596 	 LOC
+point zéro des routes de France 	 3598 	 3629 	 LOC
+Saint-Lô 	 3675 	 3683 	 LOC
+Avranches 	 3729 	 3738 	 LOC
+Coutances 	 3781 	 3790 	 LOC
+Cherbourg 	 3831 	 3840 	 LOC
+Octeville 	 3841 	 3850 	 LOC
+Mont-Saint-Michel 	 3886 	 3903 	 LOC
+Cancale 	 3944 	 3951 	 LOC
+Caen 	 4005 	 4009 	 LOC
+Morges 	 4169 	 4175 	 LOC
+Jack London 	 4177 	 4188 	 PER
+TGV 	 4374 	 4377 	 MISC
+Massy TGV 	 4402 	 4411 	 LOC
+Massy 	 4413 	 4418 	 LOC
+Palaiseau 	 4422 	 4431 	 LOC
+Juvisy 	 4435 	 4441 	 LOC
+Pékin 	 4483 	 4488 	 LOC
+delta du Nord 	 4594 	 4607 	 LOC
+la Chine 	 4611 	 4619 	 LOC
+Royaume 	 4624 	 4631 	 LOC
+Égypte 	 4635 	 4641 	 LOC
+Oxford 	 4727 	 4733 	 LOC
+Cambridge 	 4753 	 4762 	 LOC
+Maxwell 	 4842 	 4849 	 PER
+Pacte andin 	 4910 	 4921 	 ORG
+Carthagène 	 4949 	 4959 	 LOC
+Thionville FC 	 4972 	 4985 	 ORG
+Division 2 	 5019 	 5029 	 MISC
+Passaic 	 5080 	 5087 	 LOC
+Michel Gondry 	 5125 	 5138 	 PER
+Soyez sympas, rembobinez 	 5140 	 5164 	 MISC
+Groenland 	 5169 	 5178 	 LOC
+Otton I er 	 5290 	 5300 	 PER
+Bourgogne 	 5319 	 5328 	 LOC

@@ -1,0 +1,62 @@
+Valve 	 ORG
+M5S 	 ORG
+Belgique 	 LOC
+CRS 	 ORG
+Royaume 	 LOC
+Uni 	 LOC
+Facebook 	 MISC
+Google 	 ORG
+AdWords 	 MISC
+Valve 	 ORG
+Algérie 	 LOC
+Égypte 	 LOC
+Cameroun 	 LOC
+Nigéria 	 LOC
+Glacier Perito Moreno 	 LOC
+Patrimoine mondial de l'UNESCO 	 MISC
+Daesh 	 ORG
+Tiangong-1 	 MISC
+Curiosity 	 ORG
+NASA 	 ORG
+James Webb 	 PER
+Accident nucléaire de Fukushima 	 MISC
+le Japon 	 LOC
+Hubble 	 MISC
+Saturne 	 LOC
+SoHO 	 LOC
+Carcassonne 	 LOC
+Bolloré 	 ORG
+Canal+ 	 ORG
+États-Unis 	 LOC
+Californie 	 LOC
+Jeux Paralympiques 	 MISC
+Suisse 	 LOC
+Espace 	 LOC
+Tiangong-1 	 MISC
+Terre 	 LOC
+Page 	 PER
+Tiangong-1 	 MISC
+Pacifique 	 LOC
+Championnats du monde junior 	 MISC
+Royaume 	 LOC
+Uni 	 LOC
+prix Nobel de médecine 	 MISC
+John Sulston 	 PER
+Suisse 	 LOC
+Ouagadougou 	 LOC
+Burkina 	 LOC
+Faso 	 LOC
+Sesame Street 	 LOC
+Turk Murphy 	 PER
+Donald Hadley 	 PER
+LVMH 	 ORG
+Moët Hennessy 	 PER
+Louis Vuitton 	 PER
+France 	 LOC
+Front National 	 ORG
+Terre 	 LOC
+Mars 	 LOC
+James Webb 	 PER
+Jeux olympiques 	 MISC
+Espagne 	 LOC
+AFP 	 ORG

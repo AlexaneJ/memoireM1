@@ -1,0 +1,57 @@
+Verdun 	 LOC
+Verdunois 	 LOC
+Christian Langlois 	 PER
+M. Patrice Lanini 	 PER
+CGT 	 ORG
+Rapides de la Meuse 	 ORG
+Armand Riberolles 	 PER
+Jean-Claude Méry 	 PER
+Francis Poullain 	 PER
+la France 	 LOC
+l'Afrique 	 LOC
+François Mitterrand 	 PER
+Colonies 	 LOC
+René Bousquet 	 PER
+Banque d'Indochine 	 ORG
+Budget 	 LOC
+Michel Charasse 	 PER
+Taïwan 	 LOC
+Chine 	 LOC
+Blanche Maupas 	 PER
+Le Fusillé 	 MISC
+Tardi 	 PER
+Angiox 	 PER
+Angiox 	 PER
+Nicolas Sarkozy 	 PER
+Direction générale des impôts 	 ORG
+DGI 	 ORG
+Créteil 	 LOC
+Francis Poullain 	 PER
+OPAC 	 ORG
+Office public d'aménagement et de construction de la ville de Paris 	 ORG
+Aclasta 2 	 MISC
+Stop USA 	 MISC
+Frégates 	 LOC
+Taïwan 	 LOC
+Charasse 	 PER
+AP 	 LOC
+Commission 	 ORG
+Conseil 	 ORG
+Parlement 	 ORG
+Paget 	 PER
+Aclasta 	 MISC
+Angiox 	 PER
+EDD 	 ORG
+UE 	 ORG
+États 	 LOC
+Andrew Wang 	 PER
+Europe 	 LOC
+Théophile Maupas 	 PER
+Ligue des droits de l'Homme 	 ORG
+Aclasta 	 MISC
+Lubljana 	 MISC
+Stanley Kubrick 	 PER
+Les Sentiers de la gloire 	 MISC
+Première Guerre mondiale 	 MISC
+Distribution 	 MISC
+Aclasta 	 MISC

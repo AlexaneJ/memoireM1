@@ -1,0 +1,95 @@
+ERVY-LE-CHATEL 	 0 	 14 	 MISC
+Marché du Livre 	 30 	 45 	 MISC
+Rencontres 	 83 	 93 	 LOC
+Ervy-le-Châtel 	 157 	 171 	 LOC
+Reconnaître 5 sauvageonnes comestibles 	 245 	 283 	 MISC
+Les Ombelles 	 335 	 347 	 LOC
+Sortie au départ d’AIX-EN-OTHE 	 414 	 444 	 MISC
+Sortie au Musée Colette 	 447 	 470 	 MISC
+Château de Guédelon 	 474 	 493 	 LOC
+Club des Anciens 	 511 	 527 	 ORG
+Aix 	 541 	 544 	 LOC
+BOUILLY 	 582 	 589 	 ORG
+Marché de Noël 	 592 	 606 	 MISC
+Comité des fêtes 	 642 	 658 	 ORG
+ERVY-LE-CHATEL 	 660 	 674 	 MISC
+Récital de Piano 4 mains 	 677 	 701 	 MISC
+Matthieu Normand 	 707 	 723 	 PER
+Nicolas Collinet 	 727 	 743 	 PER
+Halle Circulaire 	 749 	 765 	 LOC
+Villa de l'Extra 	 790 	 806 	 LOC
+http://villa-de-l-extra.skyrock.com/ 	 843 	 879 	 MISC
+BERULLE 	 893 	 900 	 LOC
+Randonnée 	 903 	 912 	 LOC
+Bérulle 	 1007 	 1014 	 PER
+BOUILLY 	 1083 	 1090 	 ORG
+Téléthon 	 1093 	 1101 	 ORG
+CHAOURCE 	 1142 	 1150 	 LOC
+Concert d’orgue 	 1153 	 1168 	 MISC
+Paul Breisch 	 1184 	 1196 	 PER
+cathédrale de Luxembourg 	 1203 	 1227 	 LOC
+Cabaret itinérant 	 1268 	 1285 	 MISC
+Festival en Othe 	 1289 	 1305 	 MISC
+VAUCHASSIS 	 1347 	 1357 	 MISC
+ERVY-LE-CHATEL 	 1403 	 1417 	 MISC
+Sylvie Vernageau 	 1451 	 1467 	 PER
+MARAYE-EN-OTHE 	 1607 	 1621 	 MISC
+Feux de la Saint-Jean 	 1624 	 1645 	 MISC
+Animations musicales 	 1676 	 1696 	 MISC
+Maraye 	 1735 	 1741 	 PER
+Tous 	 1747 	 1751 	 LOC
+RACINES 	 1767 	 1774 	 LOC
+Soirée 	 1777 	 1783 	 LOC
+France 	 1792 	 1798 	 LOC
+Russie 	 1802 	 1808 	 LOC
+Philippe Borecek 	 1898 	 1914 	 PER
+Ivan Netchiporko 	 1934 	 1950 	 PER
+Ervy-le-Châtel 	 1976 	 1990 	 LOC
+ESTISSAC 	 2039 	 2047 	 LOC
+Fête du Cochon 	 2050 	 2064 	 MISC
+place Caroline 	 2072 	 2086 	 LOC
+PALIS 	 2098 	 2103 	 ORG
+Boule Palisienne 	 2138 	 2154 	 MISC
+Fête du tilleul centenaire 	 2202 	 2228 	 MISC
+PUISEAUX 	 2291 	 2299 	 MISC
+Promenade 	 2302 	 2311 	 LOC
+Akadêmia 	 2339 	 2347 	 LOC
+Musée du Cidre 	 2351 	 2365 	 LOC
+Largentier)à 19 h. 	 2374 	 2392 	 LOC
+ESSOYES 	 2454 	 2461 	 LOC
+Exposition 	 2464 	 2474 	 MISC
+M. Monnet Pierre 	 2489 	 2505 	 PER
+Pays d’Armance 	 2518 	 2532 	 LOC
+Ours 	 2547 	 2551 	 LOC
+Renoir 	 2569 	 2575 	 PER
+BOUILLY 	 2608 	 2615 	 ORG
+Journées du Patrimoine 	 2618 	 2640 	 MISC
+Saint Laurent 	 2661 	 2674 	 PER
+Commission de la Culture 	 2692 	 2716 	 ORG
+MAROLLES-SOUS-LIGNIERES 	 2718 	 2741 	 LOC
+Méchoui 	 2744 	 2751 	 MISC
+AUXON 	 2836 	 2841 	 ORG
+Vide grenier 	 2843 	 2855 	 MISC
+AFCA 	 2872 	 2876 	 ORG
+BERULLE 	 2893 	 2900 	 LOC
+Espace Jean Musy 	 2939 	 2955 	 LOC
+Scène ouverte 	 3072 	 3085 	 MISC
+PALIS 	 3174 	 3179 	 MISC
+Boule Palisienne 	 3214 	 3230 	 MISC
+ESTISSAC 	 3266 	 3274 	 LOC
+Rando Voirloups 	 3277 	 3292 	 LOC
+Estissac 	 3357 	 3365 	 LOC
+Cyclo Club Othéen 	 3502 	 3519 	 ORG
+COUSSEGREY 	 3536 	 3546 	 LOC
+Stage 	 3549 	 3554 	 MISC
+Univers 	 3630 	 3637 	 MISC
+Soi 	 3749 	 3752 	 LOC
+Renseignements 	 3833 	 3847 	 LOC
+LIGNIERES 	 3909 	 3918 	 LOC
+Chantier 	 3921 	 3929 	 LOC
+Les Ombelles 	 4012 	 4024 	 LOC
+SORMERY 	 4077 	 4084 	 ORG
+Café Surprise : pratique artistique et chansons 	 4087 	 4134 	 MISC
+Couvent de l’Orée Contact 	 4188 	 4213 	 LOC
+ERVY-LE-CHATEL 	 4270 	 4284 	 MISC
+l’Atelier de Sylvie Vernageau 	 4307 	 4336 	 MISC

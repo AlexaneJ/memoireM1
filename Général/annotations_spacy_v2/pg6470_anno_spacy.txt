@@ -1,0 +1,23 @@
+Alexandre 	 PER
+Lisa 	 PER
+Saget 	 PER
+Tenez 	 LOC
+Florent 	 PER
+Lisa 	 PER
+rue Montorgueil 	 LOC
+Many small donations 	 MISC
+Méhudin 	 PER
+Méhudin 	 PER
+Lisa 	 PER
+Florent 	 PER
+Charvet 	 PER
+Clémence 	 PER
+madame Lecoeur 	 PER
+Quenu 	 PER
+Florent 	 PER
+Lebigre 	 PER
+V 	 MISC
+Lisa 	 MISC
+Saint-Eustache 	 LOC
+Pauline 	 PER
+Florent 	 PER

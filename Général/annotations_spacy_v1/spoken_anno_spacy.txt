@@ -1,0 +1,23 @@
+tram eh ben 	 MISC
+Saint-Jean-de-Maurienne 	 LOC
+Le Figaro 	 ORG
+Paul Vallier 	 PER
+place Notre-Dame 	 LOC
+rue de Strasbourg 	 LOC
+boulevard Diderot 	 LOC
+Gabi Heinze 	 PER
+Olkaloo 	 LOC
+Chroniques de l' oiseau 	 MISC
+La course du mouton sauvage 	 MISC
+Kafka 	 PER
+Afrique 	 LOC
+Ethiopie 	 LOC
+Arabie 	 LOC
+Cavalaire Pardigon 	 LOC
+Besse 	 LOC
+Aden 	 LOC
+de France 	 LOC
+Agüero 	 PER
+lycée Arago 	 LOC
+Reuilly 	 LOC
+Diderot 	 PER

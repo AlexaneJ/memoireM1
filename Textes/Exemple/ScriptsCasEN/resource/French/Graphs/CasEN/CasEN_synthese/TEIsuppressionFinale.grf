@@ -1,0 +1,50 @@
+#Unigraph
+SIZE 1887 876
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+30
+"<E>" 77 216 1 5 
+"" 1027 388 0 
+"<TOKEN>" 475 388 2 4 11 
+"$deux(" 213 388 1 8 
+"$deux)" 599 388 1 6 
+"\<_extent\>\<_val\>" 157 216 1 19 
+"\<\/_val\>\<\/_extent\>" 659 388 1 21 
+"\<\/_val\>" 335 388 1 9 
+"$![" 289 388 1 7 
+"$]" 433 388 1 2 
+"/composée de <extent><val>vingt-cinq</val> ou <val>vingt-sept</val></extent> Etats membres" 357 40 0 
+"<E>" 410 458 1 8 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+tln.lifat.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 34 92 0 
+"\<\/_val\>" 722 216 1 27 
+"<TOKEN>" 565 216 1 20 
+"\<\/_val\>" 425 216 1 17 
+"$![" 379 216 1 15 
+"$]" 523 216 1 14 
+"<E>" 503 128 1 19 
+"$un(" 339 216 1 16 
+"$un)" 666 216 2 13 18 
+"<E>/$un$ $entre$ $deux$" 845 388 1 1 
+"<TOKEN>" 1055 216 1 28 
+"\<_val\>" 915 216 1 25 
+"$![" 869 216 1 23 
+"$]" 1013 216 1 22 
+"<E>" 993 128 1 27 
+"$entre(" 829 216 1 24 
+"$entre)" 1156 216 2 26 29 
+"\<_val\>" 108 340 1 3 

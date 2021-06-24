@@ -1,0 +1,21 @@
+Alexandre 	 90 	 99 	 PER
+Lisa 	 283 	 287 	 PER
+Saget 	 737 	 742 	 PER
+Florent 	 900 	 907 	 PER
+Lisa 	 1285 	 1289 	 PER
+rue Montorgueil 	 1689 	 1704 	 LOC
+Méhudin 	 2008 	 2015 	 PER
+Méhudin 	 2105 	 2112 	 PER
+Lisa 	 2855 	 2859 	 MISC
+Florent 	 2861 	 2868 	 PER
+Charvet 	 3287 	 3294 	 PER
+Clémence 	 3362 	 3370 	 PER
+madame Lecoeur 	 3427 	 3441 	 PER
+Quenu 	 3524 	 3529 	 PER
+Florent 	 3783 	 3790 	 PER
+Lebigre 	 3931 	 3938 	 PER
+V    	 4094 	 4098 	 PER
+Lisa 	 4132 	 4136 	 MISC
+Saint-Eustache 	 4149 	 4163 	 LOC
+Pauline 	 4386 	 4393 	 PER
+Florent 	 4724 	 4731 	 PER

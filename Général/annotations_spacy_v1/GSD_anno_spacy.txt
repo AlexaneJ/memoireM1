@@ -1,0 +1,56 @@
+La Capte 	 MISC
+Giens 	 LOC
+L'Almanarre 	 LOC
+L'Ayguade 	 MISC
+Le Pyanet 	 LOC
+Costebelle 	 LOC
+Salins 	 LOC
+Hyères 	 LOC
+Les Borrels 	 LOC
+El Niño 	 LOC
+Shusterman 	 LOC
+Practicing Philosophy 	 PER
+Performing Live 	 MISC
+Surface and Depth 	 MISC
+Andragatos 	 PER
+XXème 	 MISC
+France 	 LOC
+Hollywood 	 LOC
+Metro 	 LOC
+Goldwyn 	 PER
+Mayer 	 PER
+Adrian 	 PER
+Centrale féline Belge 	 ORG
+CFB 	 ORG
+» 	 MISC
+Hugues Mingarelli 	 PER
+UE 	 ORG
+» 	 ORG
+TEP 	 MISC
+TDM 	 MISC
+» 	 MISC
+Maroc 	 LOC
+Afrique 	 LOC
+Antilles 	 LOC
+Premier ministre 	 MISC
+Margaret Thatcher 	 PER
+10 Downing Street 	 MISC
+Premier ministre 	 MISC
+Saintes 	 PER
+Saintes Boson 	 PER
+Bordeaux 	 LOC
+Joscelin 	 PER
+Aquitaine 	 LOC
+Être ultime 	 MISC
+Dieu 	 MISC
+Leeuwarden 	 LOC
+département de la Frise 	 LOC
+Merci 	 LOC
+Fonds des Nations unies pour l'enfance 	 ORG
+Narcisse Pigeon 	 PER
+Collégiale Royale Sainte-Marthe 	 LOC
+Tarascon 	 LOC
+Bouches-du-Rhône 	 LOC
+Oural 	 LOC
+Paris 	 LOC
+Révolution française 	 MISC

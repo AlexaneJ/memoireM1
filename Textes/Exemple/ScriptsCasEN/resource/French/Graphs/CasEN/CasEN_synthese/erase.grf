@@ -1,0 +1,55 @@
+#Unigraph
+SIZE 1887 879
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 11164160
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+35
+"<E>" 129 320 2 2 25 
+"" 1674 426 0 
+"\<_erase\>\<" 199 263 1 6 
+"/<measure type=\"price\"><erase><measure type=\"currency\"><unit>€</unit></measure></erase>/<unit>kg</unit></measure>" 231 60 0 
+"\>" 387 263 1 7 
+"<TOKEN>" 533 263 2 6 8 
+"$![" 347 263 1 4 
+"$]" 479 263 1 5 
+"\>" 637 263 1 16 
+"/<measure type=\"price\"><unit>€</unit>/<unit>kg</unit></measure>" 242 94 0 
+"<E>/$token$" 1549 426 1 1 
+"/le <orgName type=\"funder\">projet A97H01 du programme de <erase><orgName>coopération</orgName></erase></orgName>" 330 131 0 
+"<TOKEN>" 727 263 1 17 
+"/<orgName><erase><orgName><org type=\"voluntary\">Association</org> française</orgName></erase> pour le dépistage et la prévention des handicaps de l'enfant</orgName>" 293 523 0 
+"/le <orgName type=\"funder\">projet A97H01 du programme de coopération</orgName>" 330 165 0 
+"/<orgName><org type=\"voluntary\">Association</org> française pour le dépistage et la prévention des handicaps de l'enfant</orgName>" 302 560 0 
+"$token(" 687 263 1 12 
+"$token)" 819 263 2 10 27 
+"\<\/" 394 427 1 21 
+"\>" 525 427 1 22 
+"<TOKEN>" 671 427 2 21 23 
+"$![" 485 427 1 19 
+"$]" 617 427 1 20 
+"\>\<\/_erase\>" 775 427 1 10 
+"<TOKEN>" 246 427 1 26 
+"$token(" 206 427 1 24 
+"$token)" 338 427 1 18 
+"\<\/" 975 263 1 30 
+"\>" 1106 263 1 31 
+"<TOKEN>" 1252 263 2 30 32 
+"$![" 1066 263 1 28 
+"$]" 1198 263 1 29 
+"\>\<\/_erase\>" 1356 263 1 10 
+"------------------------------------------------------------------+CasEN+Auteurs : Nathalie Friburger, Denis Maurel+LIFAT, Université de Tours+{nathalie.friburger, denis.maurel}@univ-tours.fr+tln.lifat.univ-tours.fr+Licence LGPL-LR+------------------------------------------------------------------" 1214 109 0 
+"/<_productName type=\"media\">journal de <_name><_erase><_val>20</_val></_erase><_erase><_measure type=\"duration\"><_unit>h</_unit></_measure></_erase></_name></_productName>" 272 622 0 

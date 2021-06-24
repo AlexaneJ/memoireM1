@@ -1,0 +1,20 @@
+{
+  "bientôt": "Value 1: TIME, Value 2: TIME",
+  "lutteur": "Value 1: FUNC, Value 2: FUNC",
+  "le soir": "Value 1: TIME, Value 2: TIME",
+  "l'après-midi": "Value 1: TIME, Value 2: TIME",
+  "À cette heure avancée de la nuit": "Value 1: TIME, Value 2: TIME",
+  "marchand": "Value 1: FUNC, Value 2: FUNC",
+  "Balthazar": "Value 1: PER, Value 2: PER",
+  "Le soir": "Value 1: TIME, Value 2: TIME",
+  "cinquante francs": "Value 1: AMOUNT, Value 2: AMOUNT",
+  "au 2 décembre": "Value 1: TIME, Value 2: TIME",
+  "quelques francs": "Value 1: AMOUNT, Value 2: AMOUNT",
+  "portière": "Value 1: FUNC, Value 2: FUNC",
+  "vers quatre heures": "Value 1: TIME, Value 2: TIME",
+  "Saint-Eustache": "Value 1: LOC, Value 2: LOC",
+  "cette soirée": "Value 1: TIME, Value 2: TIME",
+  "auparavant": "Value 1: TIME, Value 2: TIME",
+  "gendarmes": "Value 1: FUNC, Value 2: FUNC",
+  "Lisa": "Value 1: PER, Value 2: PER"
+}

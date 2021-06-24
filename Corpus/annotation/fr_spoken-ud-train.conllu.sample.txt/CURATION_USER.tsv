@@ -1,0 +1,1223 @@
+#FORMAT=WebAnno TSV 3.2
+#T_SP=de.tudarmstadt.ukp.dkpro.core.api.syntax.type.chunk.Chunk|chunkValue
+#T_SP=webanno.custom.Quaero_NamedEntities|value
+
+
+#Text=et euh et ces rails du tram eh ben je vais je vais les longer
+1-1	0-2	et	_	_	
+1-2	3-6	euh	_	_	
+1-3	7-9	et	_	_	
+1-4	10-13	ces	_	_	
+1-5	14-19	rails	_	_	
+1-6	20-22	du	_	_	
+1-7	23-27	tram	_	_	
+1-8	28-30	eh	_	_	
+1-9	31-34	ben	_	_	
+1-10	35-37	je	_	_	
+1-11	38-42	vais	_	_	
+1-12	43-45	je	_	_	
+1-13	46-50	vais	_	_	
+1-14	51-54	les	_	_	
+1-15	55-61	longer	_	_	
+
+#Text=au rond-point c' est tout droit direction Saint-Jean-de-Maurienne
+2-1	62-64	au	_	_	
+2-2	65-75	rond-point	_	_	
+2-3	76-77	c	_	_	
+2-4	77-78	'	_	_	
+2-5	79-82	est	_	_	
+2-6	83-87	tout	_	_	
+2-7	88-93	droit	_	_	
+2-8	94-103	direction	_	_	
+2-9	104-127	Saint-Jean-de-Maurienne	_	loc.adm.town	
+
+#Text=et donc euh voilà
+3-1	128-130	et	_	_	
+3-2	131-135	donc	_	_	
+3-3	136-139	euh	_	_	
+3-4	140-145	voilà	_	_	
+
+#Text=ou je vais me promener
+4-1	146-148	ou	_	_	
+4-2	149-151	je	_	_	
+4-3	152-156	vais	_	_	
+4-4	157-159	me	_	_	
+4-5	160-168	promener	_	_	
+
+#Text=Le Figaro qui reconnaît l' écrasante victoire de la gauche
+5-1	169-171	Le	_	prod.media[2]	
+5-2	172-178	Figaro	_	prod.media[2]	
+5-3	179-182	qui	_	_	
+5-4	183-192	reconnaît	_	_	
+5-5	193-194	l	_	_	
+5-6	194-195	'	_	_	
+5-7	196-205	écrasante	_	_	
+5-8	206-214	victoire	_	_	
+5-9	215-217	de	_	_	
+5-10	218-220	la	_	_	
+5-11	221-227	gauche	_	_	
+
+#Text=bah oui oui oui
+6-1	228-231	bah	_	_	
+6-2	232-235	oui	_	_	
+6-3	236-239	oui	_	_	
+6-4	240-243	oui	_	_	
+
+#Text=oui oui oui
+7-1	244-247	oui	_	_	
+7-2	248-251	oui	_	_	
+7-3	252-255	oui	_	_	
+
+#Text=le vingt-et-unième siècle doit être le siècle de l' éthique
+8-1	256-258	le	_	time.date.abs[3]	
+8-2	259-274	vingt-et-unième	_	time.date.abs[3]	
+8-3	275-281	siècle	_	time.date.abs[3]	
+8-4	282-286	doit	_	_	
+8-5	287-291	être	_	_	
+8-6	292-294	le	_	_	
+8-7	295-301	siècle	_	_	
+8-8	302-304	de	_	_	
+8-9	305-306	l	_	_	
+8-10	306-307	'	_	_	
+8-11	308-315	éthique	_	_	
+
+#Text=ça veut dire que en général et je les vois pas avant vingt heures quinze hein c' est à peu près l~ l~ leurs heures de si je les vois euh si je les vois vers vingt heures ou dix-neuf heures trente c' est qu' ils sont partis plus tôt
+9-1	316-318	ça	_	_	
+9-2	319-323	veut	_	_	
+9-3	324-328	dire	_	_	
+9-4	329-332	que	_	_	
+9-5	333-335	en	_	_	
+9-6	336-343	général	_	_	
+9-7	344-346	et	_	_	
+9-8	347-349	je	_	_	
+9-9	350-353	les	_	_	
+9-10	354-358	vois	_	_	
+9-11	359-362	pas	_	_	
+9-12	363-368	avant	_	_	
+9-13	369-374	vingt	_	time.hour.abs[4]	
+9-14	375-381	heures	_	time.hour.abs[4]	
+9-15	382-388	quinze	_	time.hour.abs[4]	
+9-16	389-393	hein	_	_	
+9-17	394-395	c	_	_	
+9-18	395-396	'	_	_	
+9-19	397-400	est	_	_	
+9-20	401-402	à	_	_	
+9-21	403-406	peu	_	_	
+9-22	407-411	près	_	_	
+9-23	412-413	l	_	_	
+9-24	413-414	~	_	_	
+9-25	415-416	l	_	_	
+9-26	416-417	~	_	_	
+9-27	418-423	leurs	_	_	
+9-28	424-430	heures	_	_	
+9-29	431-433	de	_	_	
+9-30	434-436	si	_	_	
+9-31	437-439	je	_	_	
+9-32	440-443	les	_	_	
+9-33	444-448	vois	_	_	
+9-34	449-452	euh	_	_	
+9-35	453-455	si	_	_	
+9-36	456-458	je	_	_	
+9-37	459-462	les	_	_	
+9-38	463-467	vois	_	_	
+9-39	468-472	vers	_	time.hour.abs[5]	
+9-40	473-478	vingt	_	time.hour.abs[5]	
+9-41	479-485	heures	_	time.hour.abs[5]	
+9-42	486-488	ou	_	time.hour.abs[5]	
+9-43	489-497	dix-neuf	_	time.hour.abs[5]	
+9-44	498-504	heures	_	time.hour.abs[5]	
+9-45	505-511	trente	_	time.hour.abs[5]	
+9-46	512-513	c	_	_	
+9-47	513-514	'	_	_	
+9-48	515-518	est	_	_	
+9-49	519-521	qu	_	_	
+9-50	521-522	'	_	_	
+9-51	523-526	ils	_	_	
+9-52	527-531	sont	_	_	
+9-53	532-538	partis	_	_	
+9-54	539-543	plus	_	_	
+9-55	544-547	tôt	_	_	
+
+#Text=alors en partant de la place Paul Vallier pour aller à la place Notre-Dame alors j' emprunte la rue de Strasbourg
+10-1	548-553	alors	_	_	
+10-2	554-556	en	_	_	
+10-3	557-564	partant	_	_	
+10-4	565-567	de	_	_	
+10-5	568-570	la	_	_	
+10-6	571-576	place	_	loc.oro[6]	
+10-7	577-581	Paul	_	loc.oro[6]|pers.ind[7]	
+10-8	582-589	Vallier	_	loc.oro[6]|pers.ind[7]	
+10-9	590-594	pour	_	_	
+10-10	595-600	aller	_	_	
+10-11	601-602	à	_	_	
+10-12	603-605	la	_	_	
+10-13	606-611	place	_	loc.oro[8]	
+10-14	612-622	Notre-Dame	_	loc.oro[8]	
+10-15	623-628	alors	_	_	
+10-16	629-630	j	_	_	
+10-17	630-631	'	_	_	
+10-18	632-640	emprunte	_	_	
+10-19	641-643	la	_	_	
+10-20	644-647	rue	_	loc.oro[9]	
+10-21	648-650	de	_	loc.oro[9]	
+10-22	651-661	Strasbourg	_	loc.oro[9]|loc.adm.town[10]	
+
+#Text=tu continues tout droit tout droit
+11-1	662-664	tu	_	_	
+11-2	665-674	continues	_	_	
+11-3	675-679	tout	_	_	
+11-4	680-685	droit	_	_	
+11-5	686-690	tout	_	_	
+11-6	691-696	droit	_	_	
+
+#Text=c' est euh
+12-1	697-698	c	_	_	
+12-2	698-699	'	_	_	
+12-3	700-703	est	_	_	
+12-4	704-707	euh	_	_	
+
+#Text=alors que
+13-1	708-713	alors	_	_	
+13-2	714-717	que	_	_	
+
+#Text=c' était de très bons
+14-1	718-719	c	_	_	
+14-2	719-720	'	_	_	
+14-3	721-726	était	_	_	
+14-4	727-729	de	_	_	
+14-5	730-734	très	_	_	
+14-6	735-739	bons	_	_	
+
+#Text=je descends le boulevard euh le boulevard Diderot
+15-1	740-742	je	_	_	
+15-2	743-751	descends	_	_	
+15-3	752-754	le	_	_	
+15-4	755-764	boulevard	_	_	
+15-5	765-768	euh	_	_	
+15-6	769-771	le	_	loc.oro[11]	
+15-7	772-781	boulevard	_	loc.oro[11]	
+15-8	782-789	Diderot	_	loc.oro[11]|pers.ind[12]	
+
+#Text=mais le côté droit complètement euh seul dégarni
+16-1	790-794	mais	_	_	
+16-2	795-797	le	_	_	
+16-3	798-802	côté	_	_	
+16-4	803-808	droit	_	_	
+16-5	809-821	complètement	_	_	
+16-6	822-825	euh	_	_	
+16-7	826-830	seul	_	_	
+16-8	831-838	dégarni	_	_	
+
+#Text=ils avaient vingt-neuf docteurs
+17-1	839-842	ils	_	_	
+17-2	843-850	avaient	_	_	
+17-3	851-861	vingt-neuf	_	amount[13]	
+17-4	862-870	docteurs	_	amount[13]|func.coll[14]	
+
+#Text=petite obstruction de Gabi Heinze
+18-1	871-877	petite	_	_	
+18-2	878-889	obstruction	_	_	
+18-3	890-892	de	_	_	
+18-4	893-897	Gabi	_	pers.ind[15]	
+18-5	898-904	Heinze	_	pers.ind[15]	
+
+#Text=et euh et donc euh vous avez exercé quoi comme métier euh
+19-1	905-907	et	_	_	
+19-2	908-911	euh	_	_	
+19-3	912-914	et	_	_	
+19-4	915-919	donc	_	_	
+19-5	920-923	euh	_	_	
+19-6	924-928	vous	_	_	
+19-7	929-933	avez	_	_	
+19-8	934-940	exercé	_	_	
+19-9	941-945	quoi	_	_	
+19-10	946-951	comme	_	_	
+19-11	952-958	métier	_	_	
+19-12	959-962	euh	_	_	
+
+#Text=et et donc elle elle tombe
+20-1	963-965	et	_	_	
+20-2	966-968	et	_	_	
+20-3	969-973	donc	_	_	
+20-4	974-978	elle	_	_	
+20-5	979-983	elle	_	_	
+20-6	984-989	tombe	_	_	
+
+#Text=mais à ce moment -là elle est vue par une dame plutôt âgée et bonne bourgeoise euh voilà tout le conflit social dans cette petite anecdote c' est marrant et euh qui bien évidemment euh délate euh le vol euh au boulanger lorsqu' il ressort de la boutique
+21-1	990-994	mais	_	_	
+21-2	995-996	à	_	_	
+21-3	997-999	ce	_	_	
+21-4	1000-1006	moment	_	_	
+21-5	1007-1008	-	_	_	
+21-6	1008-1010	là	_	_	
+21-7	1011-1015	elle	_	_	
+21-8	1016-1019	est	_	_	
+21-9	1020-1023	vue	_	_	
+21-10	1024-1027	par	_	_	
+21-11	1028-1031	une	_	_	
+21-12	1032-1036	dame	_	_	
+21-13	1037-1043	plutôt	_	_	
+21-14	1044-1048	âgée	_	_	
+21-15	1049-1051	et	_	_	
+21-16	1052-1057	bonne	_	_	
+21-17	1058-1068	bourgeoise	_	_	
+21-18	1069-1072	euh	_	_	
+21-19	1073-1078	voilà	_	_	
+21-20	1079-1083	tout	_	_	
+21-21	1084-1086	le	_	_	
+21-22	1087-1094	conflit	_	_	
+21-23	1095-1101	social	_	_	
+21-24	1102-1106	dans	_	_	
+21-25	1107-1112	cette	_	_	
+21-26	1113-1119	petite	_	_	
+21-27	1120-1128	anecdote	_	_	
+21-28	1129-1130	c	_	_	
+21-29	1130-1131	'	_	_	
+21-30	1132-1135	est	_	_	
+21-31	1136-1143	marrant	_	_	
+21-32	1144-1146	et	_	_	
+21-33	1147-1150	euh	_	_	
+21-34	1151-1154	qui	_	_	
+21-35	1155-1159	bien	_	_	
+21-36	1160-1170	évidemment	_	_	
+21-37	1171-1174	euh	_	_	
+21-38	1175-1181	délate	_	_	
+21-39	1182-1185	euh	_	_	
+21-40	1186-1188	le	_	_	
+21-41	1189-1192	vol	_	_	
+21-42	1193-1196	euh	_	_	
+21-43	1197-1199	au	_	_	
+21-44	1200-1209	boulanger	_	func.ind	
+21-45	1210-1216	lorsqu	_	_	
+21-46	1216-1217	'	_	_	
+21-47	1218-1220	il	_	_	
+21-48	1221-1228	ressort	_	_	
+21-49	1229-1231	de	_	_	
+21-50	1232-1234	la	_	_	
+21-51	1235-1243	boutique	_	_	
+
+#Text=pas de problème
+22-1	1244-1247	pas	_	_	
+22-2	1248-1250	de	_	_	
+22-3	1251-1259	problème	_	_	
+
+#Text=euh j' ai commencé par euh travailler comme médecin de campagne à un endroit qui s' appelait Olkaloo juste au sud de l' équateur
+23-1	1260-1263	euh	_	_	
+23-2	1264-1265	j	_	_	
+23-3	1265-1266	'	_	_	
+23-4	1267-1269	ai	_	_	
+23-5	1270-1278	commencé	_	_	
+23-6	1279-1282	par	_	_	
+23-7	1283-1286	euh	_	_	
+23-8	1287-1297	travailler	_	_	
+23-9	1298-1303	comme	_	_	
+23-10	1304-1311	médecin	func.ind[1]	_	
+23-11	1312-1314	de	func.ind[1]	_	
+23-12	1315-1323	campagne	func.ind[1]	_	
+23-13	1324-1325	à	_	_	
+23-14	1326-1328	un	_	_	
+23-15	1329-1336	endroit	_	_	
+23-16	1337-1340	qui	_	_	
+23-17	1341-1342	s	_	_	
+23-18	1342-1343	'	_	_	
+23-19	1344-1352	appelait	_	_	
+23-20	1353-1360	Olkaloo	_	loc.adm.town	
+23-21	1361-1366	juste	_	_	
+23-22	1367-1369	au	_	_	
+23-23	1370-1373	sud	_	_	
+23-24	1374-1376	de	_	_	
+23-25	1377-1378	l	_	_	
+23-26	1378-1379	'	_	_	
+23-27	1380-1388	équateur	_	loc.phys.geo	
+
+#Text=donc on voit on le voit sortir euh du pain des brioches des trucs comme ça
+24-1	1389-1393	donc	_	_	
+24-2	1394-1396	on	_	_	
+24-3	1397-1401	voit	_	_	
+24-4	1402-1404	on	_	_	
+24-5	1405-1407	le	_	_	
+24-6	1408-1412	voit	_	_	
+24-7	1413-1419	sortir	_	_	
+24-8	1420-1423	euh	_	_	
+24-9	1424-1426	du	_	_	
+24-10	1427-1431	pain	_	_	
+24-11	1432-1435	des	_	_	
+24-12	1436-1444	brioches	_	_	
+24-13	1445-1448	des	_	_	
+24-14	1449-1454	trucs	_	_	
+24-15	1455-1460	comme	_	_	
+24-16	1461-1463	ça	_	_	
+
+#Text=on l' avait un peu oublié après les records de la présidentielle
+25-1	1464-1466	on	_	_	
+25-2	1467-1468	l	_	_	
+25-3	1468-1469	'	_	_	
+25-4	1470-1475	avait	_	_	
+25-5	1476-1478	un	_	_	
+25-6	1479-1482	peu	_	_	
+25-7	1483-1489	oublié	_	_	
+25-8	1490-1495	après	_	_	
+25-9	1496-1499	les	_	_	
+25-10	1500-1507	records	_	_	
+25-11	1508-1510	de	_	_	
+25-12	1511-1513	la	_	_	
+25-13	1514-1528	présidentielle	_	_	
+
+#Text=et euh voilà
+26-1	1529-1531	et	_	_	
+26-2	1532-1535	euh	_	_	
+26-3	1536-1541	voilà	_	_	
+
+#Text=ou je vais
+27-1	1542-1544	ou	_	_	
+27-2	1545-1547	je	_	_	
+27-3	1548-1552	vais	_	_	
+
+#Text=vous continuez toujours en restant sur votre gauche
+28-1	1553-1557	vous	_	_	
+28-2	1558-1567	continuez	_	_	
+28-3	1568-1576	toujours	_	_	
+28-4	1577-1579	en	_	_	
+28-5	1580-1587	restant	_	_	
+28-6	1588-1591	sur	_	_	
+28-7	1592-1597	votre	_	_	
+28-8	1598-1604	gauche	_	_	
+
+#Text=donc elle va voler en fait un une baguette
+29-1	1605-1609	donc	_	_	
+29-2	1610-1614	elle	_	_	
+29-3	1615-1617	va	_	_	
+29-4	1618-1623	voler	_	_	
+29-5	1624-1626	en	_	_	
+29-6	1627-1631	fait	_	_	
+29-7	1632-1634	un	_	_	
+29-8	1635-1638	une	_	_	
+29-9	1639-1647	baguette	_	_	
+
+#Text=l' école c' était est conçue maintenant comme un voilà pensum
+30-1	1648-1649	l	_	_	
+30-2	1649-1650	'	_	_	
+30-3	1651-1656	école	_	_	
+30-4	1657-1658	c	_	_	
+30-5	1658-1659	'	_	_	
+30-6	1660-1665	était	_	_	
+30-7	1666-1669	est	_	_	
+30-8	1670-1676	conçue	_	_	
+30-9	1677-1687	maintenant	_	_	
+30-10	1688-1693	comme	_	_	
+30-11	1694-1696	un	_	_	
+30-12	1697-1702	voilà	_	_	
+30-13	1703-1709	pensum	_	_	
+
+#Text=ah oui oui je suis française
+31-1	1710-1712	ah	_	_	
+31-2	1713-1716	oui	_	_	
+31-3	1717-1720	oui	_	_	
+31-4	1721-1723	je	_	_	
+31-5	1724-1728	suis	_	_	
+31-6	1729-1738	française	_	_	
+
+#Text=ils restent pas longtemps
+32-1	1739-1742	ils	_	_	
+32-2	1743-1750	restent	_	_	
+32-3	1751-1754	pas	_	_	
+32-4	1755-1764	longtemps	_	_	
+
+#Text=nombreux par classe
+33-1	1765-1773	nombreux	_	_	
+33-2	1774-1777	par	_	_	
+33-3	1778-1784	classe	_	_	
+
+#Text=ça veut dire que en général et je les vois pas avant vingt heures quinze hein c' est à peu près l~ l~ leurs heures de si je les vois euh si je les vois vers vingt heures ou dix-neuf heures trente c' est qu' ils sont partis plus tôt
+34-1	1785-1787	ça	_	_	
+34-2	1788-1792	veut	_	_	
+34-3	1793-1797	dire	_	_	
+34-4	1798-1801	que	_	_	
+34-5	1802-1804	en	_	_	
+34-6	1805-1812	général	_	_	
+34-7	1813-1815	et	_	_	
+34-8	1816-1818	je	_	_	
+34-9	1819-1822	les	_	_	
+34-10	1823-1827	vois	_	_	
+34-11	1828-1831	pas	_	_	
+34-12	1832-1837	avant	_	_	
+34-13	1838-1843	vingt	_	time.hour.abs[16]	
+34-14	1844-1850	heures	_	time.hour.abs[16]	
+34-15	1851-1857	quinze	_	time.hour.abs[16]	
+34-16	1858-1862	hein	_	_	
+34-17	1863-1864	c	_	_	
+34-18	1864-1865	'	_	_	
+34-19	1866-1869	est	_	_	
+34-20	1870-1871	à	_	_	
+34-21	1872-1875	peu	_	_	
+34-22	1876-1880	près	_	_	
+34-23	1881-1882	l	_	_	
+34-24	1882-1883	~	_	_	
+34-25	1884-1885	l	_	_	
+34-26	1885-1886	~	_	_	
+34-27	1887-1892	leurs	_	_	
+34-28	1893-1899	heures	_	_	
+34-29	1900-1902	de	_	_	
+34-30	1903-1905	si	_	_	
+34-31	1906-1908	je	_	_	
+34-32	1909-1912	les	_	_	
+34-33	1913-1917	vois	_	_	
+34-34	1918-1921	euh	_	_	
+34-35	1922-1924	si	_	_	
+34-36	1925-1927	je	_	_	
+34-37	1928-1931	les	_	_	
+34-38	1932-1936	vois	_	_	
+34-39	1937-1941	vers	_	time.hour.abs[17]	
+34-40	1942-1947	vingt	_	time.hour.abs[17]	
+34-41	1948-1954	heures	_	time.hour.abs[17]	
+34-42	1955-1957	ou	_	time.hour.abs[17]	
+34-43	1958-1966	dix-neuf	_	time.hour.abs[17]	
+34-44	1967-1973	heures	_	time.hour.abs[17]	
+34-45	1974-1980	trente	_	time.hour.abs[17]	
+34-46	1981-1982	c	_	_	
+34-47	1982-1983	'	_	_	
+34-48	1984-1987	est	_	_	
+34-49	1988-1990	qu	_	_	
+34-50	1990-1991	'	_	_	
+34-51	1992-1995	ils	_	_	
+34-52	1996-2000	sont	_	_	
+34-53	2001-2007	partis	_	_	
+34-54	2008-2012	plus	_	_	
+34-55	2013-2016	tôt	_	_	
+
+#Text=vous allez vous diriger vers le fond des jardins de ville en restant euh en en y allant mais en restant s~ sur la gauche
+35-1	2017-2021	vous	_	_	
+35-2	2022-2027	allez	_	_	
+35-3	2028-2032	vous	_	_	
+35-4	2033-2040	diriger	_	_	
+35-5	2041-2045	vers	_	_	
+35-6	2046-2048	le	_	_	
+35-7	2049-2053	fond	_	_	
+35-8	2054-2057	des	_	_	
+35-9	2058-2065	jardins	_	_	
+35-10	2066-2068	de	_	_	
+35-11	2069-2074	ville	_	_	
+35-12	2075-2077	en	_	_	
+35-13	2078-2085	restant	_	_	
+35-14	2086-2089	euh	_	_	
+35-15	2090-2092	en	_	_	
+35-16	2093-2095	en	_	_	
+35-17	2096-2097	y	_	_	
+35-18	2098-2104	allant	_	_	
+35-19	2105-2109	mais	_	_	
+35-20	2110-2112	en	_	_	
+35-21	2113-2120	restant	_	_	
+35-22	2121-2122	s	_	_	
+35-23	2122-2123	~	_	_	
+35-24	2124-2127	sur	_	_	
+35-25	2128-2130	la	_	_	
+35-26	2131-2137	gauche	_	_	
+
+#Text=on est à quatre minutes de la mi-temps même pas
+36-1	2138-2140	on	_	_	
+36-2	2141-2144	est	_	_	
+36-3	2145-2146	à	_	_	
+36-4	2147-2153	quatre	_	amount[18]	
+36-5	2154-2161	minutes	_	amount[18]	
+36-6	2162-2164	de	_	_	
+36-7	2165-2167	la	_	_	
+36-8	2168-2176	mi-temps	_	_	
+36-9	2177-2181	même	_	_	
+36-10	2182-2185	pas	_	_	
+
+#Text=c' est donc finalement pour un motif de jouissance qu' on écrit euh
+37-1	2186-2187	c	_	_	
+37-2	2187-2188	'	_	_	
+37-3	2189-2192	est	_	_	
+37-4	2193-2197	donc	_	_	
+37-5	2198-2208	finalement	_	_	
+37-6	2209-2213	pour	_	_	
+37-7	2214-2216	un	_	_	
+37-8	2217-2222	motif	_	_	
+37-9	2223-2225	de	_	_	
+37-10	2226-2236	jouissance	_	_	
+37-11	2237-2239	qu	_	_	
+37-12	2239-2240	'	_	_	
+37-13	2241-2243	on	_	_	
+37-14	2244-2249	écrit	_	_	
+37-15	2250-2253	euh	_	_	
+
+#Text=mh mh euh l' immobilier est très cher dans le quartier
+38-1	2254-2256	mh	_	_	
+38-2	2257-2259	mh	_	_	
+38-3	2260-2263	euh	_	_	
+38-4	2264-2265	l	_	_	
+38-5	2265-2266	'	_	_	
+38-6	2267-2277	immobilier	_	_	
+38-7	2278-2281	est	_	_	
+38-8	2282-2286	très	_	_	
+38-9	2287-2291	cher	_	_	
+38-10	2292-2296	dans	_	_	
+38-11	2297-2299	le	_	_	
+38-12	2300-2308	quartier	_	_	
+
+#Text=et j' avais une circonscription un un rayon d' action d' à peu près euh cent kilomètres tout autour de cet endroit
+39-1	2309-2311	et	_	_	
+39-2	2312-2313	j	_	_	
+39-3	2313-2314	'	_	_	
+39-4	2315-2320	avais	_	_	
+39-5	2321-2324	une	_	_	
+39-6	2325-2340	circonscription	_	_	
+39-7	2341-2343	un	_	_	
+39-8	2344-2346	un	_	_	
+39-9	2347-2352	rayon	_	_	
+39-10	2353-2354	d	_	_	
+39-11	2354-2355	'	_	_	
+39-12	2356-2362	action	_	_	
+39-13	2363-2364	d	_	_	
+39-14	2364-2365	'	_	_	
+39-15	2366-2367	à	_	_	
+39-16	2368-2371	peu	_	_	
+39-17	2372-2376	près	_	_	
+39-18	2377-2380	euh	_	_	
+39-19	2381-2385	cent	_	amount[19]	
+39-20	2386-2396	kilomètres	_	amount[19]	
+39-21	2397-2401	tout	_	_	
+39-22	2402-2408	autour	_	_	
+39-23	2409-2411	de	_	_	
+39-24	2412-2415	cet	_	_	
+39-25	2416-2423	endroit	_	_	
+
+#Text=c' est à ceux de votre tradition que nous avons arraché le suffrage universel la liberté d' association que nous avons arraché la liberté d' association que nous avons arraché la liberté de la presse le droit de grève le droit à l' instruction
+40-1	2424-2425	c	_	_	
+40-2	2425-2426	'	_	_	
+40-3	2427-2430	est	_	_	
+40-4	2431-2432	à	_	_	
+40-5	2433-2437	ceux	_	_	
+40-6	2438-2440	de	_	_	
+40-7	2441-2446	votre	_	_	
+40-8	2447-2456	tradition	_	_	
+40-9	2457-2460	que	_	_	
+40-10	2461-2465	nous	_	_	
+40-11	2466-2471	avons	_	_	
+40-12	2472-2479	arraché	_	_	
+40-13	2480-2482	le	_	_	
+40-14	2483-2491	suffrage	_	_	
+40-15	2492-2501	universel	_	_	
+40-16	2502-2504	la	_	_	
+40-17	2505-2512	liberté	_	_	
+40-18	2513-2514	d	_	_	
+40-19	2514-2515	'	_	_	
+40-20	2516-2527	association	_	_	
+40-21	2528-2531	que	_	_	
+40-22	2532-2536	nous	_	_	
+40-23	2537-2542	avons	_	_	
+40-24	2543-2550	arraché	_	_	
+40-25	2551-2553	la	_	_	
+40-26	2554-2561	liberté	_	_	
+40-27	2562-2563	d	_	_	
+40-28	2563-2564	'	_	_	
+40-29	2565-2576	association	_	_	
+40-30	2577-2580	que	_	_	
+40-31	2581-2585	nous	_	_	
+40-32	2586-2591	avons	_	_	
+40-33	2592-2599	arraché	_	_	
+40-34	2600-2602	la	_	_	
+40-35	2603-2610	liberté	_	_	
+40-36	2611-2613	de	_	_	
+40-37	2614-2616	la	_	_	
+40-38	2617-2623	presse	_	_	
+40-39	2624-2626	le	_	_	
+40-40	2627-2632	droit	_	_	
+40-41	2633-2635	de	_	_	
+40-42	2636-2641	grève	_	_	
+40-43	2642-2644	le	_	_	
+40-44	2645-2650	droit	_	_	
+40-45	2651-2652	à	_	_	
+40-46	2653-2654	l	_	_	
+40-47	2654-2655	'	_	_	
+40-48	2656-2667	instruction	_	_	
+
+#Text=tu traverses tout
+41-1	2668-2670	tu	_	_	
+41-2	2671-2680	traverses	_	_	
+41-3	2681-2685	tout	_	_	
+
+#Text=mh mh soit vous continuez
+42-1	2686-2688	mh	_	_	
+42-2	2689-2691	mh	_	_	
+42-3	2692-2696	soit	_	_	
+42-4	2697-2701	vous	_	_	
+42-5	2702-2711	continuez	_	_	
+
+#Text=ah oui non mais ça ah non non non ah non pas du tout
+43-1	2712-2714	ah	_	_	
+43-2	2715-2718	oui	_	_	
+43-3	2719-2722	non	_	_	
+43-4	2723-2727	mais	_	_	
+43-5	2728-2730	ça	_	_	
+43-6	2731-2733	ah	_	_	
+43-7	2734-2737	non	_	_	
+43-8	2738-2741	non	_	_	
+43-9	2742-2745	non	_	_	
+43-10	2746-2748	ah	_	_	
+43-11	2749-2752	non	_	_	
+43-12	2753-2756	pas	_	_	
+43-13	2757-2759	du	_	_	
+43-14	2760-2764	tout	_	_	
+
+#Text=et euh il y a de plus en plus d' appareils
+44-1	2765-2767	et	_	_	
+44-2	2768-2771	euh	_	_	
+44-3	2772-2774	il	_	_	
+44-4	2775-2776	y	_	_	
+44-5	2777-2778	a	_	_	
+44-6	2779-2781	de	_	_	
+44-7	2782-2786	plus	_	_	
+44-8	2787-2789	en	_	_	
+44-9	2790-2794	plus	_	_	
+44-10	2795-2796	d	_	_	
+44-11	2796-2797	'	_	_	
+44-12	2798-2807	appareils	_	_	
+
+#Text=mais autrement euh voilà je viens de relire Chroniques de l' oiseau à ressort La course du mouton sauvage euh Kafka sur le rivage qui est quand même un peu son chef d' oeuvre enfin pour l' instant je trouve et et celui -là là Au sud de la frontière que j' adore littéralement que je trouve un un livre absolument euh magnifique et qui me et qui m' obsède vachement
+45-1	2808-2812	mais	_	_	
+45-2	2813-2822	autrement	_	_	
+45-3	2823-2826	euh	_	_	
+45-4	2827-2832	voilà	_	_	
+45-5	2833-2835	je	_	_	
+45-6	2836-2841	viens	_	_	
+45-7	2842-2844	de	_	_	
+45-8	2845-2851	relire	_	_	
+45-9	2852-2862	Chroniques	_	prod.art[20]	
+45-10	2863-2865	de	_	prod.art[20]	
+45-11	2866-2867	l	_	prod.art[20]	
+45-12	2867-2868	'	_	prod.art[20]	
+45-13	2869-2875	oiseau	_	prod.art[20]	
+45-14	2876-2877	à	_	prod.art[20]	
+45-15	2878-2885	ressort	_	prod.art[20]	
+45-16	2886-2888	La	_	prod.art[21]	
+45-17	2889-2895	course	_	prod.art[21]	
+45-18	2896-2898	du	_	prod.art[21]	
+45-19	2899-2905	mouton	_	prod.art[21]	
+45-20	2906-2913	sauvage	_	prod.art[21]	
+45-21	2914-2917	euh	_	_	
+45-22	2918-2923	Kafka	_	prod.art[22]|pers.ind[23]	
+45-23	2924-2927	sur	_	prod.art[22]	
+45-24	2928-2930	le	_	prod.art[22]	
+45-25	2931-2937	rivage	_	prod.art[22]	
+45-26	2938-2941	qui	_	_	
+45-27	2942-2945	est	_	_	
+45-28	2946-2951	quand	_	_	
+45-29	2952-2956	même	_	_	
+45-30	2957-2959	un	_	_	
+45-31	2960-2963	peu	_	_	
+45-32	2964-2967	son	_	_	
+45-33	2968-2972	chef	_	_	
+45-34	2973-2974	d	_	_	
+45-35	2974-2975	'	_	_	
+45-36	2976-2982	oeuvre	_	_	
+45-37	2983-2988	enfin	_	_	
+45-38	2989-2993	pour	_	_	
+45-39	2994-2995	l	_	_	
+45-40	2995-2996	'	_	_	
+45-41	2997-3004	instant	_	_	
+45-42	3005-3007	je	_	_	
+45-43	3008-3014	trouve	_	_	
+45-44	3015-3017	et	_	_	
+45-45	3018-3020	et	_	_	
+45-46	3021-3026	celui	_	_	
+45-47	3027-3028	-	_	_	
+45-48	3028-3030	là	_	_	
+45-49	3031-3033	là	_	_	
+45-50	3034-3036	Au	_	prod.art[24]	
+45-51	3037-3040	sud	_	prod.art[24]	
+45-52	3041-3043	de	_	prod.art[24]	
+45-53	3044-3046	la	_	prod.art[24]	
+45-54	3047-3056	frontière	_	prod.art[24]	
+45-55	3057-3060	que	_	_	
+45-56	3061-3062	j	_	_	
+45-57	3062-3063	'	_	_	
+45-58	3064-3069	adore	_	_	
+45-59	3070-3083	littéralement	_	_	
+45-60	3084-3087	que	_	_	
+45-61	3088-3090	je	_	_	
+45-62	3091-3097	trouve	_	_	
+45-63	3098-3100	un	_	_	
+45-64	3101-3103	un	_	_	
+45-65	3104-3109	livre	_	_	
+45-66	3110-3120	absolument	_	_	
+45-67	3121-3124	euh	_	_	
+45-68	3125-3135	magnifique	_	_	
+45-69	3136-3138	et	_	_	
+45-70	3139-3142	qui	_	_	
+45-71	3143-3145	me	_	_	
+45-72	3146-3148	et	_	_	
+45-73	3149-3152	qui	_	_	
+45-74	3153-3154	m	_	_	
+45-75	3154-3155	'	_	_	
+45-76	3156-3162	obsède	_	_	
+45-77	3163-3172	vachement	_	_	
+
+#Text=ce qui ne veut pas dire que dans cet acte de jouissance on ne rencontre pas d' autres motivations et disons qu' on ne rencontre pas d' autres débats et qu' on ne rencontre pas tout simplement les autres
+46-1	3173-3175	ce	_	_	
+46-2	3176-3179	qui	_	_	
+46-3	3180-3182	ne	_	_	
+46-4	3183-3187	veut	_	_	
+46-5	3188-3191	pas	_	_	
+46-6	3192-3196	dire	_	_	
+46-7	3197-3200	que	_	_	
+46-8	3201-3205	dans	_	_	
+46-9	3206-3209	cet	_	_	
+46-10	3210-3214	acte	_	_	
+46-11	3215-3217	de	_	_	
+46-12	3218-3228	jouissance	_	_	
+46-13	3229-3231	on	_	_	
+46-14	3232-3234	ne	_	_	
+46-15	3235-3244	rencontre	_	_	
+46-16	3245-3248	pas	_	_	
+46-17	3249-3250	d	_	_	
+46-18	3250-3251	'	_	_	
+46-19	3252-3258	autres	_	_	
+46-20	3259-3270	motivations	_	_	
+46-21	3271-3273	et	_	_	
+46-22	3274-3280	disons	_	_	
+46-23	3281-3283	qu	_	_	
+46-24	3283-3284	'	_	_	
+46-25	3285-3287	on	_	_	
+46-26	3288-3290	ne	_	_	
+46-27	3291-3300	rencontre	_	_	
+46-28	3301-3304	pas	_	_	
+46-29	3305-3306	d	_	_	
+46-30	3306-3307	'	_	_	
+46-31	3308-3314	autres	_	_	
+46-32	3315-3321	débats	_	_	
+46-33	3322-3324	et	_	_	
+46-34	3325-3327	qu	_	_	
+46-35	3327-3328	'	_	_	
+46-36	3329-3331	on	_	_	
+46-37	3332-3334	ne	_	_	
+46-38	3335-3344	rencontre	_	_	
+46-39	3345-3348	pas	_	_	
+46-40	3349-3353	tout	_	_	
+46-41	3354-3364	simplement	_	_	
+46-42	3365-3368	les	_	_	
+46-43	3369-3375	autres	_	_	
+
+#Text=vous pouvez pas le louper
+47-1	3376-3380	vous	_	_	
+47-2	3381-3387	pouvez	_	_	
+47-3	3388-3391	pas	_	_	
+47-4	3392-3394	le	_	_	
+47-5	3395-3401	louper	_	_	
+
+#Text=c' est là
+48-1	3402-3403	c	_	_	
+48-2	3403-3404	'	_	_	
+48-3	3405-3408	est	_	_	
+48-4	3409-3411	là	_	_	
+
+#Text=et j' avais absolument envie d' aller dans la corne de l' Afrique la l' Ethiopie la Somalie euh l' Ora~ l' Arabie tout ça
+49-1	3412-3414	et	_	_	
+49-2	3415-3416	j	_	_	
+49-3	3416-3417	'	_	_	
+49-4	3418-3423	avais	_	_	
+49-5	3424-3434	absolument	_	_	
+49-6	3435-3440	envie	_	_	
+49-7	3441-3442	d	_	_	
+49-8	3442-3443	'	_	_	
+49-9	3444-3449	aller	_	_	
+49-10	3450-3454	dans	_	_	
+49-11	3455-3457	la	_	_	
+49-12	3458-3463	corne	_	loc.adm.sup[25]	
+49-13	3464-3466	de	_	loc.adm.sup[25]	
+49-14	3467-3468	l	_	loc.adm.sup[25]	
+49-15	3468-3469	'	_	loc.adm.sup[25]	
+49-16	3470-3477	Afrique	_	loc.adm.sup[25]	
+49-17	3478-3480	la	_	_	
+49-18	3481-3482	l	_	_	
+49-19	3482-3483	'	_	_	
+49-20	3484-3492	Ethiopie	_	loc.adm.nat	
+49-21	3493-3495	la	_	_	
+49-22	3496-3503	Somalie	_	loc.adm.nat	
+49-23	3504-3507	euh	_	_	
+49-24	3508-3509	l	_	_	
+49-25	3509-3510	'	_	_	
+49-26	3511-3514	Ora	_	_	
+49-27	3514-3515	~	_	_	
+49-28	3516-3517	l	_	_	
+49-29	3517-3518	'	_	_	
+49-30	3519-3525	Arabie	_	loc.adm.sup	
+49-31	3526-3530	tout	_	_	
+49-32	3531-3533	ça	_	_	
+
+#Text=c' est vrai que bon maintenant ce sont de jeunes parents qui sont moins orientés sur le livre mh mh donc qui automatiquement orientent moins les enfants sur le livre
+50-1	3534-3535	c	_	_	
+50-2	3535-3536	'	_	_	
+50-3	3537-3540	est	_	_	
+50-4	3541-3545	vrai	_	_	
+50-5	3546-3549	que	_	_	
+50-6	3550-3553	bon	_	_	
+50-7	3554-3564	maintenant	_	_	
+50-8	3565-3567	ce	_	_	
+50-9	3568-3572	sont	_	_	
+50-10	3573-3575	de	_	_	
+50-11	3576-3582	jeunes	_	_	
+50-12	3583-3590	parents	_	_	
+50-13	3591-3594	qui	_	_	
+50-14	3595-3599	sont	_	_	
+50-15	3600-3605	moins	_	_	
+50-16	3606-3614	orientés	_	_	
+50-17	3615-3618	sur	_	_	
+50-18	3619-3621	le	_	_	
+50-19	3622-3627	livre	_	_	
+50-20	3628-3630	mh	_	_	
+50-21	3631-3633	mh	_	_	
+50-22	3634-3638	donc	_	_	
+50-23	3639-3642	qui	_	_	
+50-24	3643-3658	automatiquement	_	_	
+50-25	3659-3668	orientent	_	_	
+50-26	3669-3674	moins	_	_	
+50-27	3675-3678	les	_	_	
+50-28	3679-3686	enfants	_	_	
+50-29	3687-3690	sur	_	_	
+50-30	3691-3693	le	_	_	
+50-31	3694-3699	livre	_	_	
+
+#Text=ils se sont bien repris ensuite
+51-1	3700-3703	ils	_	_	
+51-2	3704-3706	se	_	_	
+51-3	3707-3711	sont	_	_	
+51-4	3712-3716	bien	_	_	
+51-5	3717-3723	repris	_	_	
+51-6	3724-3731	ensuite	_	_	
+
+#Text=euh il est petit et très vif très offensif
+52-1	3732-3735	euh	_	_	
+52-2	3736-3738	il	_	_	
+52-3	3739-3742	est	_	_	
+52-4	3743-3748	petit	_	_	
+52-5	3749-3751	et	_	_	
+52-6	3752-3756	très	_	_	
+52-7	3757-3760	vif	_	_	
+52-8	3761-3765	très	_	_	
+52-9	3766-3774	offensif	_	_	
+
+#Text=nous voyons combien tout peut être parfois remis en cause du fait de l' inconscience des hommes ou du déchaînement des éléments naturels
+53-1	3775-3779	nous	_	_	
+53-2	3780-3786	voyons	_	_	
+53-3	3787-3794	combien	_	_	
+53-4	3795-3799	tout	_	_	
+53-5	3800-3804	peut	_	_	
+53-6	3805-3809	être	_	_	
+53-7	3810-3817	parfois	_	_	
+53-8	3818-3823	remis	_	_	
+53-9	3824-3826	en	_	_	
+53-10	3827-3832	cause	_	_	
+53-11	3833-3835	du	_	_	
+53-12	3836-3840	fait	_	_	
+53-13	3841-3843	de	_	_	
+53-14	3844-3845	l	_	_	
+53-15	3845-3846	'	_	_	
+53-16	3847-3859	inconscience	_	_	
+53-17	3860-3863	des	_	_	
+53-18	3864-3870	hommes	_	_	
+53-19	3871-3873	ou	_	_	
+53-20	3874-3876	du	_	_	
+53-21	3877-3889	déchaînement	_	_	
+53-22	3890-3893	des	_	_	
+53-23	3894-3902	éléments	_	_	
+53-24	3903-3911	naturels	_	_	
+
+#Text=je j' ai rien à dire
+54-1	3912-3914	je	_	_	
+54-2	3915-3916	j	_	_	
+54-3	3916-3917	'	_	_	
+54-4	3918-3920	ai	_	_	
+54-5	3921-3925	rien	_	_	
+54-6	3926-3927	à	_	_	
+54-7	3928-3932	dire	_	_	
+
+#Text=oui ça c' est un arrêt peut-être pas facile c' est vrai
+55-1	3933-3936	oui	_	_	
+55-2	3937-3939	ça	_	_	
+55-3	3940-3941	c	_	_	
+55-4	3941-3942	'	_	_	
+55-5	3943-3946	est	_	_	
+55-6	3947-3949	un	_	_	
+55-7	3950-3955	arrêt	_	_	
+55-8	3956-3965	peut-être	_	_	
+55-9	3966-3969	pas	_	_	
+55-10	3970-3976	facile	_	_	
+55-11	3977-3978	c	_	_	
+55-12	3978-3979	'	_	_	
+55-13	3980-3983	est	_	_	
+55-14	3984-3988	vrai	_	_	
+
+#Text=alors que nous sommes à trois minutes de la mi-temps
+56-1	3989-3994	alors	_	_	
+56-2	3995-3998	que	_	_	
+56-3	3999-4003	nous	_	_	
+56-4	4004-4010	sommes	_	_	
+56-5	4011-4012	à	_	_	
+56-6	4013-4018	trois	_	amount[26]	
+56-7	4019-4026	minutes	_	amount[26]	
+56-8	4027-4029	de	_	_	
+56-9	4030-4032	la	_	_	
+56-10	4033-4041	mi-temps	_	_	
+
+#Text=et à Cavalaire Pardigon où nous allions en été il y avait une famille amie à nous euh les Besse et qui avait un empire commercial je veux dire surtout à à Aden
+57-1	4042-4044	et	_	_	
+57-2	4045-4046	à	_	_	
+57-3	4047-4056	Cavalaire	_	loc.other[27]|loc.adm.town[28]	
+57-4	4057-4065	Pardigon	_	loc.other[27]	
+57-5	4066-4068	où	_	_	
+57-6	4069-4073	nous	_	_	
+57-7	4074-4081	allions	_	_	
+57-8	4082-4084	en	_	_	
+57-9	4085-4088	été	_	_	
+57-10	4089-4091	il	_	_	
+57-11	4092-4093	y	_	_	
+57-12	4094-4099	avait	_	_	
+57-13	4100-4103	une	_	_	
+57-14	4104-4111	famille	_	_	
+57-15	4112-4116	amie	_	_	
+57-16	4117-4118	à	_	_	
+57-17	4119-4123	nous	_	_	
+57-18	4124-4127	euh	_	_	
+57-19	4128-4131	les	_	_	
+57-20	4132-4137	Besse	_	pers.coll	
+57-21	4138-4140	et	_	_	
+57-22	4141-4144	qui	_	_	
+57-23	4145-4150	avait	_	_	
+57-24	4151-4153	un	_	_	
+57-25	4154-4160	empire	_	_	
+57-26	4161-4171	commercial	_	_	
+57-27	4172-4174	je	_	_	
+57-28	4175-4179	veux	_	_	
+57-29	4180-4184	dire	_	_	
+57-30	4185-4192	surtout	_	_	
+57-31	4193-4194	à	_	_	
+57-32	4195-4196	à	_	_	
+57-33	4197-4201	Aden	_	loc.adm.town	
+
+#Text=je crois
+58-1	4202-4204	je	_	_	
+58-2	4205-4210	crois	_	_	
+
+#Text=eh bien voilà j~ j~ j~ j' allais vous dire pas tout à fait d'accord avec vous parce que depuis oui cinq minutes effectivement l' équipe de France commençait de nouveau à reculer oui et commençait à lâcher son emprise sur l' adversaire argentin
+59-1	4211-4213	eh	_	_	
+59-2	4214-4218	bien	_	_	
+59-3	4219-4224	voilà	_	_	
+59-4	4225-4226	j	_	_	
+59-5	4226-4227	~	_	_	
+59-6	4228-4229	j	_	_	
+59-7	4229-4230	~	_	_	
+59-8	4231-4232	j	_	_	
+59-9	4232-4233	~	_	_	
+59-10	4234-4235	j	_	_	
+59-11	4235-4236	'	_	_	
+59-12	4237-4243	allais	_	_	
+59-13	4244-4248	vous	_	_	
+59-14	4249-4253	dire	_	_	
+59-15	4254-4257	pas	_	_	
+59-16	4258-4262	tout	_	_	
+59-17	4263-4264	à	_	_	
+59-18	4265-4269	fait	_	_	
+59-19	4270-4278	d'accord	_	_	
+59-20	4279-4283	avec	_	_	
+59-21	4284-4288	vous	_	_	
+59-22	4289-4294	parce	_	_	
+59-23	4295-4298	que	_	_	
+59-24	4299-4305	depuis	_	amount[29]	
+59-25	4306-4309	oui	_	amount[29]	
+59-26	4310-4314	cinq	_	amount[29]	
+59-27	4315-4322	minutes	_	amount[29]	
+59-28	4323-4336	effectivement	_	_	
+59-29	4337-4338	l	_	pers.coll[30]	
+59-30	4338-4339	'	_	pers.coll[30]	
+59-31	4340-4346	équipe	_	pers.coll[30]	
+59-32	4347-4349	de	_	pers.coll[30]	
+59-33	4350-4356	France	_	pers.coll[30]|loc.adm.nat[31]	
+59-34	4357-4367	commençait	_	_	
+59-35	4368-4370	de	_	_	
+59-36	4371-4378	nouveau	_	_	
+59-37	4379-4380	à	_	_	
+59-38	4381-4388	reculer	_	_	
+59-39	4389-4392	oui	_	_	
+59-40	4393-4395	et	_	_	
+59-41	4396-4406	commençait	_	_	
+59-42	4407-4408	à	_	_	
+59-43	4409-4415	lâcher	_	_	
+59-44	4416-4419	son	_	_	
+59-45	4420-4427	emprise	_	_	
+59-46	4428-4431	sur	_	_	
+59-47	4432-4433	l	_	_	
+59-48	4433-4434	'	_	_	
+59-49	4435-4445	adversaire	_	_	
+59-50	4446-4454	argentin	_	_	
+
+#Text=mais c' est un concept c' est ce qu' on appelle un concept flou
+60-1	4455-4459	mais	_	_	
+60-2	4460-4461	c	_	_	
+60-3	4461-4462	'	_	_	
+60-4	4463-4466	est	_	_	
+60-5	4467-4469	un	_	_	
+60-6	4470-4477	concept	_	_	
+60-7	4478-4479	c	_	_	
+60-8	4479-4480	'	_	_	
+60-9	4481-4484	est	_	_	
+60-10	4485-4487	ce	_	_	
+60-11	4488-4490	qu	_	_	
+60-12	4490-4491	'	_	_	
+60-13	4492-4494	on	_	_	
+60-14	4495-4502	appelle	_	_	
+60-15	4503-4505	un	_	_	
+60-16	4506-4513	concept	_	_	
+60-17	4514-4518	flou	_	_	
+
+#Text=mais bon ben ouais il faut
+61-1	4519-4523	mais	_	_	
+61-2	4524-4527	bon	_	_	
+61-3	4528-4531	ben	_	_	
+61-4	4532-4537	ouais	_	_	
+61-5	4538-4540	il	_	_	
+61-6	4541-4545	faut	_	_	
+
+#Text=là une attaque d' Agüero qui est seul qui entre dans la surface de réparation
+62-1	4546-4548	là	_	_	
+62-2	4549-4552	une	_	_	
+62-3	4553-4560	attaque	_	_	
+62-4	4561-4562	d	_	_	
+62-5	4562-4563	'	_	_	
+62-6	4564-4570	Agüero	_	pers.ind	
+62-7	4571-4574	qui	_	_	
+62-8	4575-4578	est	_	_	
+62-9	4579-4583	seul	_	_	
+62-10	4584-4587	qui	_	_	
+62-11	4588-4593	entre	_	_	
+62-12	4594-4598	dans	_	_	
+62-13	4599-4601	la	_	_	
+62-14	4602-4609	surface	_	_	
+62-15	4610-4612	de	_	_	
+62-16	4613-4623	réparation	_	_	
+
+#Text=quand tu achètes quand tu achètes un ordinateur il est il est déjà dépassé quoi
+63-1	4624-4629	quand	_	_	
+63-2	4630-4632	tu	_	_	
+63-3	4633-4640	achètes	_	_	
+63-4	4641-4646	quand	_	_	
+63-5	4647-4649	tu	_	_	
+63-6	4650-4657	achètes	_	_	
+63-7	4658-4660	un	_	_	
+63-8	4661-4671	ordinateur	_	_	
+63-9	4672-4674	il	_	_	
+63-10	4675-4678	est	_	_	
+63-11	4679-4681	il	_	_	
+63-12	4682-4685	est	_	_	
+63-13	4686-4690	déjà	_	_	
+63-14	4691-4698	dépassé	_	_	
+63-15	4699-4703	quoi	_	_	
+
+#Text=ça va
+64-1	4704-4706	ça	_	_	
+64-2	4707-4709	va	_	_	
+
+#Text=enfin c' est
+65-1	4710-4715	enfin	_	_	
+65-2	4716-4717	c	_	_	
+65-3	4717-4718	'	_	_	
+65-4	4719-4722	est	_	_	
+
+#Text=et puis après j' étais au lycée Arago donc voyez qui est mh mh mh hein qui avait une annexe d'ailleurs euh une annexe qui est à Reuilly - Diderot
+66-1	4723-4725	et	_	_	
+66-2	4726-4730	puis	_	_	
+66-3	4731-4736	après	_	_	
+66-4	4737-4738	j	_	_	
+66-5	4738-4739	'	_	_	
+66-6	4740-4745	étais	_	_	
+66-7	4746-4748	au	_	_	
+66-8	4749-4754	lycée	_	org.ent[32]	
+66-9	4755-4760	Arago	_	org.ent[32]|pers.ind[33]	
+66-10	4761-4765	donc	_	_	
+66-11	4766-4771	voyez	_	_	
+66-12	4772-4775	qui	_	_	
+66-13	4776-4779	est	_	_	
+66-14	4780-4782	mh	_	_	
+66-15	4783-4785	mh	_	_	
+66-16	4786-4788	mh	_	_	
+66-17	4789-4793	hein	_	_	
+66-18	4794-4797	qui	_	_	
+66-19	4798-4803	avait	_	_	
+66-20	4804-4807	une	_	_	
+66-21	4808-4814	annexe	_	_	
+66-22	4815-4825	d'ailleurs	_	_	
+66-23	4826-4829	euh	_	_	
+66-24	4830-4833	une	_	_	
+66-25	4834-4840	annexe	_	_	
+66-26	4841-4844	qui	_	_	
+66-27	4845-4848	est	_	_	
+66-28	4849-4850	à	_	_	
+66-29	4851-4858	Reuilly	_	loc.fac[34]|loc.adm.town[35]	
+66-30	4859-4860	-	_	loc.fac[34]	
+66-31	4861-4868	Diderot	_	loc.fac[34]|pers.ind[36]	
+
+#Text=je reviens toujours en bus
+67-1	4869-4871	je	_	_	
+67-2	4872-4879	reviens	_	_	
+67-3	4880-4888	toujours	_	_	
+67-4	4889-4891	en	_	_	
+67-5	4892-4895	bus	_	_	
+
+#Text=sur ce une vieille femme euh voit le vol prévient le boulanger
+68-1	4896-4899	sur	_	_	
+68-2	4900-4902	ce	_	_	
+68-3	4903-4906	une	_	_	
+68-4	4907-4914	vieille	_	_	
+68-5	4915-4920	femme	_	_	
+68-6	4921-4924	euh	_	_	
+68-7	4925-4929	voit	_	_	
+68-8	4930-4932	le	_	_	
+68-9	4933-4936	vol	_	_	
+68-10	4937-4945	prévient	_	_	
+68-11	4946-4948	le	_	_	
+68-12	4949-4958	boulanger	_	func.ind	
+
+#Text=on n' était pas
+69-1	4959-4961	on	_	_	
+69-2	4962-4963	n	_	_	
+69-3	4963-4964	'	_	_	
+69-4	4965-4970	était	_	_	
+69-5	4971-4974	pas	_	_	
+
+#Text=c' est d' ailleurs en partie à cause de ça que j' ai choisi mon mon affectation de travail tellement c' était agréable de revenir comme ça tous les jours quoi
+70-1	4975-4976	c	_	_	
+70-2	4976-4977	'	_	_	
+70-3	4978-4981	est	_	_	
+70-4	4982-4983	d	_	_	
+70-5	4983-4984	'	_	_	
+70-6	4985-4993	ailleurs	_	_	
+70-7	4994-4996	en	_	_	
+70-8	4997-5003	partie	_	_	
+70-9	5004-5005	à	_	_	
+70-10	5006-5011	cause	_	_	
+70-11	5012-5014	de	_	_	
+70-12	5015-5017	ça	_	_	
+70-13	5018-5021	que	_	_	
+70-14	5022-5023	j	_	_	
+70-15	5023-5024	'	_	_	
+70-16	5025-5027	ai	_	_	
+70-17	5028-5034	choisi	_	_	
+70-18	5035-5038	mon	_	_	
+70-19	5039-5042	mon	_	_	
+70-20	5043-5054	affectation	_	_	
+70-21	5055-5057	de	_	_	
+70-22	5058-5065	travail	_	_	
+70-23	5066-5075	tellement	_	_	
+70-24	5076-5077	c	_	_	
+70-25	5077-5078	'	_	_	
+70-26	5079-5084	était	_	_	
+70-27	5085-5093	agréable	_	_	
+70-28	5094-5096	de	_	_	
+70-29	5097-5104	revenir	_	_	
+70-30	5105-5110	comme	_	_	
+70-31	5111-5113	ça	_	_	
+70-32	5114-5118	tous	_	time.date.abs[37]	
+70-33	5119-5122	les	_	time.date.abs[37]	
+70-34	5123-5128	jours	_	time.date.abs[37]	
+70-35	5129-5133	quoi	_	_	

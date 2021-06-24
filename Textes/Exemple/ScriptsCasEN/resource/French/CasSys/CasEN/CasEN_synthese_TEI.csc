@@ -1,0 +1,16 @@
+"CasEN\CasEN_synthese\TEIsuppression.fst2" Replace Enabled * 0
+"CasEN\CasEN_synthese\TEIcodeType.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIbalisage.fst2" Replace Enabled * 0
+"CasEN\CasEN_synthese\erase.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIbaliseBaliseName.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIinversionValMeasure.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEImeasure.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIInclusionMeasure.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIterme.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIdate.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIpreInclusion.fst2" Replace Enabled * 0
+"CasEN\CasEN_synthese\TEIpostInclusion.fst2" Replace Enabled * 0
+"CasEN\CasEN_synthese\TEIwhen.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIperiode.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\TEIsuppressionFinale.fst2" Replace Enabled 1 0
+"CasEN\CasEN_synthese\supprimeSouligne.fst2" Replace Enabled 1 0
